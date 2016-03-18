@@ -1,0 +1,70 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-notifications/package.js": "ad8662b67799f715a9ec02eef35f21810d596d5a",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/notifications.js": "8abe07bd958de2d3d3ccbdf2afe98cbd419c3bc3",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/herald.js": "8d2142bd86f09d42605a6e915c275de66761db7e",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/server/notifications-server.js": "e06e587f68a65946afb175cfc41b470a8f2cad75",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/server/routes.js": "0807b9be5bd6edfb2ae9feaac74d7fef6a5960e9"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-notifications/package.js": "ad8662b67799f715a9ec02eef35f21810d596d5a",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/notifications.js": "8abe07bd958de2d3d3ccbdf2afe98cbd419c3bc3",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/herald.js": "8d2142bd86f09d42605a6e915c275de66761db7e",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notification_item.html": "da85db38a14155a8aab7c38372549b036ac641d3",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notification_item.js": "fe06783bc85221eb6a5bd6879b9d54ab362f5916",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notification_new_comment.html": "5e261a5fb11f0b5cdc0d58a8b7679ffaabd90d4a",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notification_new_reply.html": "5175176c6231a26d1fd3201a6c8c0581f5ca4c0c",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notifications_menu.html": "28677f0f926f21af86b551eb985456d1b1cb7662",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notifications_menu.js": "f25ae31b8456b7ba2a4ca889d5e122d63be545dd",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/unsubscribe.html": "f71ab8b691f32afe91d67c1283ae8d8321f74ed5",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/unsubscribe.js": "52b5a7fc1d51be8a877443d619e58f5339fdb628"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-notifications/package.js": "ad8662b67799f715a9ec02eef35f21810d596d5a",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/notifications.js": "8abe07bd958de2d3d3ccbdf2afe98cbd419c3bc3",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/herald.js": "8d2142bd86f09d42605a6e915c275de66761db7e",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notification_item.html": "da85db38a14155a8aab7c38372549b036ac641d3",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notification_item.js": "fe06783bc85221eb6a5bd6879b9d54ab362f5916",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notification_new_comment.html": "5e261a5fb11f0b5cdc0d58a8b7679ffaabd90d4a",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notification_new_reply.html": "5175176c6231a26d1fd3201a6c8c0581f5ca4c0c",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notifications_menu.html": "28677f0f926f21af86b551eb985456d1b1cb7662",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/notifications_menu.js": "f25ae31b8456b7ba2a4ca889d5e122d63be545dd",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/unsubscribe.html": "f71ab8b691f32afe91d67c1283ae8d8321f74ed5",
+        "/Users/pauljones/tripscope/packages/telescope-notifications/lib/client/templates/unsubscribe.js": "52b5a7fc1d51be8a877443d619e58f5339fdb628"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/pauljones/tripscope/packages/telescope-notifications/package.js": "ad8662b67799f715a9ec02eef35f21810d596d5a"
+    },
+    "directories": []
+  },
+  "source": "/Users/pauljones/tripscope/packages/telescope-notifications",
+  "buildTimeDirectDependencies": {
+    "telescope-lib": "0.2.9+a4deeda0719a0c6dd02042b6e69784b41ce7c1fe",
+    "cmather:handlebars-server": "2.0.0",
+    "templating": "1.0.9",
+    "tracker": "1.0.3",
+    "kestanous:herald": "1.1.3",
+    "telescope-email": "0.2.9+16134b0ceed3865bfe2c3f9f326bc45a71f0ee8a",
+    "underscore": "1.0.1",
+    "iron:router": "1.0.1",
+    "kestanous:herald-email": "0.4.2",
+    "jquery": "1.0.1",
+    "meteor": "1.1.3",
+    "telescope-base": "0.0.0+159bfa337eb2407989eb6bbdb6f1282db9dd2e89"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

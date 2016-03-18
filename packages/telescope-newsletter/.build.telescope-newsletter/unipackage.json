@@ -1,0 +1,23 @@
+{
+  "name": "telescope-newsletter",
+  "summary": "Telescope email newsletter package",
+  "version": "0.1.0+6b176edb6135c994d681129ee9c6ea17802c738e",
+  "earliestCompatibleVersion": "0.0.0",
+  "isTest": false,
+  "plugins": [],
+  "unibuilds": [
+    {
+      "arch": "os",
+      "path": "os.json"
+    },
+    {
+      "arch": "web.browser",
+      "path": "web.browser.json"
+    },
+    {
+      "arch": "web.cordova",
+      "path": "web.cordova.json"
+    }
+  ],
+  "format": "unipackage-pre2"
+}

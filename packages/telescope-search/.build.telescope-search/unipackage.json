@@ -1,0 +1,23 @@
+{
+  "name": "telescope-search",
+  "summary": "Telescope search package",
+  "version": "0.0.0+8c2435f03c60274b2cf7f1cc6986716855130cc5",
+  "earliestCompatibleVersion": "0.0.0",
+  "isTest": false,
+  "plugins": [],
+  "unibuilds": [
+    {
+      "arch": "os",
+      "path": "os.json"
+    },
+    {
+      "arch": "web.browser",
+      "path": "web.browser.json"
+    },
+    {
+      "arch": "web.cordova",
+      "path": "web.cordova.json"
+    }
+  ],
+  "format": "unipackage-pre2"
+}

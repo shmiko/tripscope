@@ -1,0 +1,42 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-kadira/package.js": "1a2cabf5702797e78c896ffc5335de7cc5744239",
+        "/Users/pauljones/tripscope/packages/telescope-kadira/lib/kadira-settings.js": "7c6e778a7906673fc6d3c68724cf69e420e8aaf1",
+        "/Users/pauljones/tripscope/packages/telescope-kadira/lib/server/kadira.js": "a48acc61a24991ba0a3c91e6755af1285e211289"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-kadira/package.js": "1a2cabf5702797e78c896ffc5335de7cc5744239",
+        "/Users/pauljones/tripscope/packages/telescope-kadira/lib/kadira-settings.js": "7c6e778a7906673fc6d3c68724cf69e420e8aaf1"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-kadira/package.js": "1a2cabf5702797e78c896ffc5335de7cc5744239",
+        "/Users/pauljones/tripscope/packages/telescope-kadira/lib/kadira-settings.js": "7c6e778a7906673fc6d3c68724cf69e420e8aaf1"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/pauljones/tripscope/packages/telescope-kadira/package.js": "1a2cabf5702797e78c896ffc5335de7cc5744239"
+    },
+    "directories": []
+  },
+  "source": "/Users/pauljones/tripscope/packages/telescope-kadira",
+  "buildTimeDirectDependencies": {
+    "telescope-lib": "0.2.9+a4deeda0719a0c6dd02042b6e69784b41ce7c1fe",
+    "meteorhacks:kadira": "2.14.0",
+    "meteor": "1.1.3",
+    "telescope-base": "0.0.0+159bfa337eb2407989eb6bbdb6f1282db9dd2e89"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

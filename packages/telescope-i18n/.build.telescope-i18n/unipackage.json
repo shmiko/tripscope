@@ -1,0 +1,23 @@
+{
+  "name": "telescope-i18n",
+  "summary": "Telescope i18n package",
+  "version": "0.0.0+83d7d7a631129567f1d052b1ca7b416b61248520",
+  "earliestCompatibleVersion": "0.0.0",
+  "isTest": false,
+  "plugins": [],
+  "unibuilds": [
+    {
+      "arch": "os",
+      "path": "os.json"
+    },
+    {
+      "arch": "web.browser",
+      "path": "web.browser.json"
+    },
+    {
+      "arch": "web.cordova",
+      "path": "web.cordova.json"
+    }
+  ],
+  "format": "unipackage-pre2"
+}

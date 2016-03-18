@@ -1,0 +1,47 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-module-share/package.js": "0c799e49945643b65d6cd750eae4e810ea5f53e8",
+        "/Users/pauljones/tripscope/packages/telescope-module-share/lib/share.js": "143d82b8abb3ab95c16e2a0fe106f2c6b2096856"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-module-share/package.js": "0c799e49945643b65d6cd750eae4e810ea5f53e8",
+        "/Users/pauljones/tripscope/packages/telescope-module-share/lib/share.js": "143d82b8abb3ab95c16e2a0fe106f2c6b2096856",
+        "/Users/pauljones/tripscope/packages/telescope-module-share/lib/client/post_share.html": "f166aea977424911f847a886cb86aa8aad873fa6",
+        "/Users/pauljones/tripscope/packages/telescope-module-share/lib/client/post_share.js": "f6f5079cde8077d93721faa86f03eaad0f842e8f"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-module-share/package.js": "0c799e49945643b65d6cd750eae4e810ea5f53e8",
+        "/Users/pauljones/tripscope/packages/telescope-module-share/lib/share.js": "143d82b8abb3ab95c16e2a0fe106f2c6b2096856",
+        "/Users/pauljones/tripscope/packages/telescope-module-share/lib/client/post_share.html": "f166aea977424911f847a886cb86aa8aad873fa6",
+        "/Users/pauljones/tripscope/packages/telescope-module-share/lib/client/post_share.js": "f6f5079cde8077d93721faa86f03eaad0f842e8f"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/pauljones/tripscope/packages/telescope-module-share/package.js": "0c799e49945643b65d6cd750eae4e810ea5f53e8"
+    },
+    "directories": []
+  },
+  "source": "/Users/pauljones/tripscope/packages/telescope-module-share",
+  "buildTimeDirectDependencies": {
+    "telescope-lib": "0.2.9+a4deeda0719a0c6dd02042b6e69784b41ce7c1fe",
+    "templating": "1.0.9",
+    "underscore": "1.0.1",
+    "jquery": "1.0.1",
+    "meteor": "1.1.3",
+    "telescope-base": "0.0.0+159bfa337eb2407989eb6bbdb6f1282db9dd2e89"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

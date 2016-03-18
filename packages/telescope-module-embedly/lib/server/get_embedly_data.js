@@ -1,7 +1,7 @@
 getEmbedlyData = function (url) {
   var data = {}
   var extractBase = 'http://api.embed.ly/1/extract';
-  var embedlyKey = getSetting('embedlyKey');
+  var embedlyKey = 'ea69713fd0494246af8063fe43e72c4a';
 
   try {
     

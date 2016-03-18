@@ -1,0 +1,42 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-theme-hubble/package.js": "0c083dcfa8f22d18e370ba3de26ac8a533edcb29",
+        "/Users/pauljones/tripscope/packages/telescope-theme-hubble/lib/hubble.js": "e253125709a0e24fb55972674e8b42e00e12d153"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-theme-hubble/package.js": "0c083dcfa8f22d18e370ba3de26ac8a533edcb29",
+        "/Users/pauljones/tripscope/packages/telescope-theme-hubble/lib/hubble.js": "e253125709a0e24fb55972674e8b42e00e12d153",
+        "/Users/pauljones/tripscope/packages/telescope-theme-hubble/lib/client/css/screen.css": "5b8a44a1ba38061c5e42b74bd9f1c771cabb8dfd"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-theme-hubble/package.js": "0c083dcfa8f22d18e370ba3de26ac8a533edcb29",
+        "/Users/pauljones/tripscope/packages/telescope-theme-hubble/lib/hubble.js": "e253125709a0e24fb55972674e8b42e00e12d153",
+        "/Users/pauljones/tripscope/packages/telescope-theme-hubble/lib/client/css/screen.css": "5b8a44a1ba38061c5e42b74bd9f1c771cabb8dfd"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/pauljones/tripscope/packages/telescope-theme-hubble/package.js": "0c083dcfa8f22d18e370ba3de26ac8a533edcb29"
+    },
+    "directories": []
+  },
+  "source": "/Users/pauljones/tripscope/packages/telescope-theme-hubble",
+  "buildTimeDirectDependencies": {
+    "telescope-lib": "0.2.9+a4deeda0719a0c6dd02042b6e69784b41ce7c1fe",
+    "meteor": "1.1.3",
+    "telescope-base": "0.0.0+159bfa337eb2407989eb6bbdb6f1282db9dd2e89"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

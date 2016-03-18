@@ -1,0 +1,66 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [
+    {
+      "name": "Herald",
+      "export": true
+    },
+    {
+      "name": "buildEmailNotification",
+      "export": true
+    },
+    {
+      "name": "getUnsubscribeLink",
+      "export": true
+    },
+    {
+      "name": "notificationEmail"
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "telescope-lib"
+    },
+    {
+      "package": "telescope-base"
+    },
+    {
+      "package": "telescope-email"
+    },
+    {
+      "package": "iron:router"
+    },
+    {
+      "package": "kestanous:herald",
+      "constraint": "1.1.3"
+    },
+    {
+      "package": "kestanous:herald-email"
+    },
+    {
+      "package": "jquery"
+    },
+    {
+      "package": "underscore"
+    },
+    {
+      "package": "templating"
+    },
+    {
+      "package": "tracker"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "web.browser/packages/telescope-notifications.js",
+      "length": 56497,
+      "offset": 0,
+      "servePath": "/packages/telescope-notifications.js",
+      "sourceMap": "web.browser/packages/telescope-notifications.js.map"
+    }
+  ]
+}

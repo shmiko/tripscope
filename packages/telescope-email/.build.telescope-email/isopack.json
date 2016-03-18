@@ -1,0 +1,24 @@
+{
+  "isopack-1": {
+    "name": "telescope-email",
+    "summary": "Telescope email package",
+    "version": "0.2.9+16134b0ceed3865bfe2c3f9f326bc45a71f0ee8a",
+    "earliestCompatibleVersion": "0.0.0",
+    "isTest": false,
+    "builds": [
+      {
+        "arch": "os",
+        "path": "os.json"
+      },
+      {
+        "arch": "web.browser",
+        "path": "web.browser.json"
+      },
+      {
+        "arch": "web.cordova",
+        "path": "web.cordova.json"
+      }
+    ],
+    "plugins": []
+  }
+}

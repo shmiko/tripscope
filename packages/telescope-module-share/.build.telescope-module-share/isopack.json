@@ -1,0 +1,24 @@
+{
+  "isopack-1": {
+    "name": "telescope-module-share",
+    "summary": "Telescope share module package",
+    "version": "0.0.0+7bac19d972bb047d1720e2a4245af2c4a995846c",
+    "earliestCompatibleVersion": "0.0.0",
+    "isTest": false,
+    "builds": [
+      {
+        "arch": "os",
+        "path": "os.json"
+      },
+      {
+        "arch": "web.browser",
+        "path": "web.browser.json"
+      },
+      {
+        "arch": "web.cordova",
+        "path": "web.cordova.json"
+      }
+    ],
+    "plugins": []
+  }
+}

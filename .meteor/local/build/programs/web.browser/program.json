@@ -1,0 +1,2719 @@
+{
+  "format": "web-program-pre1",
+  "manifest": [
+    {
+      "path": "packages/underscore.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18",
+      "sourceMap": "packages/underscore.js.map",
+      "sourceMapUrl": "/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map",
+      "size": 150686,
+      "hash": "0a80a8623e1b40b5df5a05582f288ddd586eaa18"
+    },
+    {
+      "path": "packages/meteor.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteor.js?61916b1060b33931a21f104fbffb67c2f3d493c5",
+      "sourceMap": "packages/meteor.js.map",
+      "sourceMapUrl": "/packages/61916b1060b33931a21f104fbffb67c2f3d493c5.map",
+      "size": 108989,
+      "hash": "61916b1060b33931a21f104fbffb67c2f3d493c5"
+    },
+    {
+      "path": "packages/standard-app-packages.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/standard-app-packages.js?be7072e6abfda638502b63fa0f809c85c8c2b8ed",
+      "sourceMap": "packages/standard-app-packages.js.map",
+      "sourceMapUrl": "/packages/be7072e6abfda638502b63fa0f809c85c8c2b8ed.map",
+      "size": 1306,
+      "hash": "be7072e6abfda638502b63fa0f809c85c8c2b8ed"
+    },
+    {
+      "path": "packages/jquery.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/jquery.js?265926494aaa3929cd2e30da265211c5929f37a4",
+      "sourceMap": "packages/jquery.js.map",
+      "sourceMapUrl": "/packages/265926494aaa3929cd2e30da265211c5929f37a4.map",
+      "size": 1295407,
+      "hash": "265926494aaa3929cd2e30da265211c5929f37a4"
+    },
+    {
+      "path": "packages/json.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/json.js?e22856eae714c681199eabc5c0710b904b125554",
+      "sourceMap": "packages/json.js.map",
+      "sourceMapUrl": "/packages/e22856eae714c681199eabc5c0710b904b125554.map",
+      "size": 58343,
+      "hash": "e22856eae714c681199eabc5c0710b904b125554"
+    },
+    {
+      "path": "packages/backbone.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/backbone.js?9e9aaec07c5a6cc1d46dfab6736beedcd71259dd",
+      "sourceMap": "packages/backbone.js.map",
+      "sourceMapUrl": "/packages/9e9aaec07c5a6cc1d46dfab6736beedcd71259dd.map",
+      "size": 176839,
+      "hash": "9e9aaec07c5a6cc1d46dfab6736beedcd71259dd"
+    },
+    {
+      "path": "packages/random.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502",
+      "sourceMap": "packages/random.js.map",
+      "sourceMapUrl": "/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map",
+      "size": 24099,
+      "hash": "fe7b46080c91ce482acf6fc326afbc5b176f0502"
+    },
+    {
+      "path": "packages/localstorage.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c",
+      "sourceMap": "packages/localstorage.js.map",
+      "sourceMapUrl": "/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map",
+      "size": 7092,
+      "hash": "9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c"
+    },
+    {
+      "path": "packages/tracker.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/tracker.js?192a05cc46b867dadbe8bf90dd961f6f8fd1574f",
+      "sourceMap": "packages/tracker.js.map",
+      "sourceMapUrl": "/packages/192a05cc46b867dadbe8bf90dd961f6f8fd1574f.map",
+      "size": 66854,
+      "hash": "192a05cc46b867dadbe8bf90dd961f6f8fd1574f"
+    },
+    {
+      "path": "packages/base64.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726",
+      "sourceMap": "packages/base64.js.map",
+      "sourceMapUrl": "/packages/1a63019243b73298e2964e6d4680f25bca657726.map",
+      "size": 15685,
+      "hash": "1a63019243b73298e2964e6d4680f25bca657726"
+    },
+    {
+      "path": "packages/ejson.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14",
+      "sourceMap": "packages/ejson.js.map",
+      "sourceMapUrl": "/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map",
+      "size": 81471,
+      "hash": "71047b64b5196348bdbe5fd5eea9ac97a5a9eb14"
+    },
+    {
+      "path": "packages/check.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/check.js?803a2be518a0c6c3949e45cf65c4ad627a3d603a",
+      "sourceMap": "packages/check.js.map",
+      "sourceMapUrl": "/packages/803a2be518a0c6c3949e45cf65c4ad627a3d603a.map",
+      "size": 35207,
+      "hash": "803a2be518a0c6c3949e45cf65c4ad627a3d603a"
+    },
+    {
+      "path": "packages/logging.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750",
+      "sourceMap": "packages/logging.js.map",
+      "sourceMapUrl": "/packages/07e201b648f16be8435a4f666156995eeda0c750.map",
+      "size": 27996,
+      "hash": "07e201b648f16be8435a4f666156995eeda0c750"
+    },
+    {
+      "path": "packages/retry.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031",
+      "sourceMap": "packages/retry.js.map",
+      "sourceMapUrl": "/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map",
+      "size": 7245,
+      "hash": "1f1dd2c35d300110fdaba51ce4473583bc3bf031"
+    },
+    {
+      "path": "packages/reload.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1",
+      "sourceMap": "packages/reload.js.map",
+      "sourceMapUrl": "/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map",
+      "size": 25926,
+      "hash": "da8974b7231dd8c0caccb5f322dcf97329d486d1"
+    },
+    {
+      "path": "packages/id-map.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298",
+      "sourceMap": "packages/id-map.js.map",
+      "sourceMapUrl": "/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map",
+      "size": 8584,
+      "hash": "9ea6eaae8d74693ce2505a858d9a5e60cf191298"
+    },
+    {
+      "path": "packages/ordered-dict.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37",
+      "sourceMap": "packages/ordered-dict.js.map",
+      "sourceMapUrl": "/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map",
+      "size": 20395,
+      "hash": "bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37"
+    },
+    {
+      "path": "packages/geojson-utils.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526",
+      "sourceMap": "packages/geojson-utils.js.map",
+      "sourceMapUrl": "/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map",
+      "size": 48339,
+      "hash": "81b79d5cf96d00b4b7a28987debcffb665c17526"
+    },
+    {
+      "path": "packages/minimongo.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/minimongo.js?9adf0102ce60b3df01914155826e1661f636e91d",
+      "sourceMap": "packages/minimongo.js.map",
+      "sourceMapUrl": "/packages/9adf0102ce60b3df01914155826e1661f636e91d.map",
+      "size": 455764,
+      "hash": "9adf0102ce60b3df01914155826e1661f636e91d"
+    },
+    {
+      "path": "packages/ddp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ddp.js?1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2",
+      "sourceMap": "packages/ddp.js.map",
+      "sourceMapUrl": "/packages/1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2.map",
+      "size": 616556,
+      "hash": "1f971b2ac9f4bdab7372cb5098ed1e26ff98dfb2"
+    },
+    {
+      "path": "packages/follower-livedata.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0",
+      "sourceMap": "packages/follower-livedata.js.map",
+      "sourceMapUrl": "/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map",
+      "size": 1490,
+      "hash": "74156c6baa89da861fc4ddb58ef158eac71e58e0"
+    },
+    {
+      "path": "packages/application-configuration.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f",
+      "sourceMap": "packages/application-configuration.js.map",
+      "sourceMapUrl": "/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map",
+      "size": 1485,
+      "hash": "dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f"
+    },
+    {
+      "path": "packages/mongo.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mongo.js?9bc2c5a8b2796fab86b51660ca643e5a49a30c84",
+      "sourceMap": "packages/mongo.js.map",
+      "sourceMapUrl": "/packages/9bc2c5a8b2796fab86b51660ca643e5a49a30c84.map",
+      "size": 146178,
+      "hash": "9bc2c5a8b2796fab86b51660ca643e5a49a30c84"
+    },
+    {
+      "path": "packages/deps.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1",
+      "sourceMap": "packages/deps.js.map",
+      "sourceMapUrl": "/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map",
+      "size": 1442,
+      "hash": "504589e1e9585dec8f9f6094e5a87b22de3783a1"
+    },
+    {
+      "path": "packages/htmljs.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/htmljs.js?539b5fc23cf5e63bc8e324543a1026b138316a8c",
+      "sourceMap": "packages/htmljs.js.map",
+      "sourceMapUrl": "/packages/539b5fc23cf5e63bc8e324543a1026b138316a8c.map",
+      "size": 110444,
+      "hash": "539b5fc23cf5e63bc8e324543a1026b138316a8c"
+    },
+    {
+      "path": "packages/observe-sequence.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240",
+      "sourceMap": "packages/observe-sequence.js.map",
+      "sourceMapUrl": "/packages/2fd807ea171ead273b9e6458607cb226012d9240.map",
+      "size": 30271,
+      "hash": "2fd807ea171ead273b9e6458607cb226012d9240"
+    },
+    {
+      "path": "packages/reactive-var.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2",
+      "sourceMap": "packages/reactive-var.js.map",
+      "sourceMapUrl": "/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map",
+      "size": 13963,
+      "hash": "20335b7b37165980ddd9f23943b2e5b00aae1cc2"
+    },
+    {
+      "path": "packages/blaze.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/blaze.js?77c0809654ee3a10dcd5a4f961fb1437e7957d33",
+      "sourceMap": "packages/blaze.js.map",
+      "sourceMapUrl": "/packages/77c0809654ee3a10dcd5a4f961fb1437e7957d33.map",
+      "size": 385864,
+      "hash": "77c0809654ee3a10dcd5a4f961fb1437e7957d33"
+    },
+    {
+      "path": "packages/accounts-base.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-base.js?6ed32803c332f93f65e36a195f42e58a62ed028d",
+      "sourceMap": "packages/accounts-base.js.map",
+      "sourceMapUrl": "/packages/6ed32803c332f93f65e36a195f42e58a62ed028d.map",
+      "size": 108969,
+      "hash": "6ed32803c332f93f65e36a195f42e58a62ed028d"
+    },
+    {
+      "path": "packages/sha.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615",
+      "sourceMap": "packages/sha.js.map",
+      "sourceMapUrl": "/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map",
+      "size": 19584,
+      "hash": "65ef52f7221944768bfc2049d6b7e163c8ae2615"
+    },
+    {
+      "path": "packages/srp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd",
+      "sourceMap": "packages/srp.js.map",
+      "sourceMapUrl": "/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map",
+      "size": 173470,
+      "hash": "e2e28156e8c912d504a3586351c8a1119f664cfd"
+    },
+    {
+      "path": "packages/accounts-password.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-password.js?6c517b689e15ab07dd443895b7ed801683dda159",
+      "sourceMap": "packages/accounts-password.js.map",
+      "sourceMapUrl": "/packages/6c517b689e15ab07dd443895b7ed801683dda159.map",
+      "size": 33053,
+      "hash": "6c517b689e15ab07dd443895b7ed801683dda159"
+    },
+    {
+      "path": "packages/url.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/url.js?2312d739008b2ffa52f13c77c5d6fc59c9e17d56",
+      "sourceMap": "packages/url.js.map",
+      "sourceMapUrl": "/packages/2312d739008b2ffa52f13c77c5d6fc59c9e17d56.map",
+      "size": 6642,
+      "hash": "2312d739008b2ffa52f13c77c5d6fc59c9e17d56"
+    },
+    {
+      "path": "packages/oauth.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/oauth.js?7d11f8366dde05ebf22a1a391f7a39de023df59c",
+      "sourceMap": "packages/oauth.js.map",
+      "sourceMapUrl": "/packages/7d11f8366dde05ebf22a1a391f7a39de023df59c.map",
+      "size": 31457,
+      "hash": "7d11f8366dde05ebf22a1a391f7a39de023df59c"
+    },
+    {
+      "path": "packages/accounts-oauth.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-oauth.js?e601fdb200ebbc6aa49c1bcd52a0f898ab5eecf7",
+      "sourceMap": "packages/accounts-oauth.js.map",
+      "sourceMapUrl": "/packages/e601fdb200ebbc6aa49c1bcd52a0f898ab5eecf7.map",
+      "size": 15783,
+      "hash": "e601fdb200ebbc6aa49c1bcd52a0f898ab5eecf7"
+    },
+    {
+      "path": "packages/http.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/http.js?9c5d152169ba9a5a57b6b8ec28e64bbd0d308077",
+      "sourceMap": "packages/http.js.map",
+      "sourceMapUrl": "/packages/9c5d152169ba9a5a57b6b8ec28e64bbd0d308077.map",
+      "size": 37036,
+      "hash": "9c5d152169ba9a5a57b6b8ec28e64bbd0d308077"
+    },
+    {
+      "path": "packages/templating.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0",
+      "sourceMap": "packages/templating.js.map",
+      "sourceMapUrl": "/packages/599ba307216da826d8b335332ebcc9a497a369a0.map",
+      "size": 11910,
+      "hash": "599ba307216da826d8b335332ebcc9a497a369a0"
+    },
+    {
+      "path": "packages/service-configuration.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b",
+      "sourceMap": "packages/service-configuration.js.map",
+      "sourceMapUrl": "/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map",
+      "size": 5082,
+      "hash": "262da6fb1e9c97be84333c429c9a2929c80f8e3b"
+    },
+    {
+      "path": "packages/oauth1.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/oauth1.js?6c8a243dd3199e6507c7bb6bd1e711a90b27dbcb",
+      "sourceMap": "packages/oauth1.js.map",
+      "sourceMapUrl": "/packages/6c8a243dd3199e6507c7bb6bd1e711a90b27dbcb.map",
+      "size": 1505,
+      "hash": "6c8a243dd3199e6507c7bb6bd1e711a90b27dbcb"
+    },
+    {
+      "path": "packages/twitter.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/twitter.js?130c4419c357fe8a79c7f8894b8fab4298559a97",
+      "sourceMap": "packages/twitter.js.map",
+      "sourceMapUrl": "/packages/130c4419c357fe8a79c7f8894b8fab4298559a97.map",
+      "size": 11463,
+      "hash": "130c4419c357fe8a79c7f8894b8fab4298559a97"
+    },
+    {
+      "path": "packages/accounts-twitter.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-twitter.js?a1c5862c55c6bf951b845bee147062ac1d5fb3d4",
+      "sourceMap": "packages/accounts-twitter.js.map",
+      "sourceMapUrl": "/packages/a1c5862c55c6bf951b845bee147062ac1d5fb3d4.map",
+      "size": 4910,
+      "hash": "a1c5862c55c6bf951b845bee147062ac1d5fb3d4"
+    },
+    {
+      "path": "packages/spiderable.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/spiderable.js?15e83f35886e22f2be2943f973bc7bb284bf8153",
+      "sourceMap": "packages/spiderable.js.map",
+      "sourceMapUrl": "/packages/15e83f35886e22f2be2943f973bc7bb284bf8153.map",
+      "size": 6294,
+      "hash": "15e83f35886e22f2be2943f973bc7bb284bf8153"
+    },
+    {
+      "path": "packages/email.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/email.js?911578310472ff10dca16a5306b7f455801d0f35",
+      "sourceMap": "packages/email.js.map",
+      "sourceMapUrl": "/packages/911578310472ff10dca16a5306b7f455801d0f35.map",
+      "size": 1287,
+      "hash": "911578310472ff10dca16a5306b7f455801d0f35"
+    },
+    {
+      "path": "packages/oauth2.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/oauth2.js?5fa58098b89a1467037a0b8eb4b17ad33b72cf07",
+      "sourceMap": "packages/oauth2.js.map",
+      "sourceMapUrl": "/packages/5fa58098b89a1467037a0b8eb4b17ad33b72cf07.map",
+      "size": 1436,
+      "hash": "5fa58098b89a1467037a0b8eb4b17ad33b72cf07"
+    },
+    {
+      "path": "packages/facebook.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/facebook.js?3f63ba659f3605b965fb3f3aa23f784e1e29c95b",
+      "sourceMap": "packages/facebook.js.map",
+      "sourceMapUrl": "/packages/3f63ba659f3605b965fb3f3aa23f784e1e29c95b.map",
+      "size": 12686,
+      "hash": "3f63ba659f3605b965fb3f3aa23f784e1e29c95b"
+    },
+    {
+      "path": "packages/accounts-facebook.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-facebook.js?9e890f917b8ec3c3ea39544407a7e982dbc6d5ae",
+      "sourceMap": "packages/accounts-facebook.js.map",
+      "sourceMapUrl": "/packages/9e890f917b8ec3c3ea39544407a7e982dbc6d5ae.map",
+      "size": 5102,
+      "hash": "9e890f917b8ec3c3ea39544407a7e982dbc6d5ae"
+    },
+    {
+      "path": "packages/reactive-dict.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2",
+      "sourceMap": "packages/reactive-dict.js.map",
+      "sourceMapUrl": "/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map",
+      "size": 19802,
+      "hash": "6b25309b1f0dcf775b44984324878d6f8ad1abc2"
+    },
+    {
+      "path": "packages/session.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55",
+      "sourceMap": "packages/session.js.map",
+      "sourceMapUrl": "/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map",
+      "size": 6497,
+      "hash": "e436deefadc999c21b6fd16e8e1ecce55c3c3a55"
+    },
+    {
+      "path": "packages/accounts-ui-unstyled.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-ui-unstyled.js?aef74b5fc84ea5cc2da87963bf496cfe692fbebb",
+      "sourceMap": "packages/accounts-ui-unstyled.js.map",
+      "sourceMapUrl": "/packages/aef74b5fc84ea5cc2da87963bf496cfe692fbebb.map",
+      "size": 249509,
+      "hash": "aef74b5fc84ea5cc2da87963bf496cfe692fbebb"
+    },
+    {
+      "path": "packages/less.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26",
+      "sourceMap": "packages/less.js.map",
+      "sourceMapUrl": "/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map",
+      "size": 1286,
+      "hash": "7d1bf981a25a449d6270558bcfc983313c40cd26"
+    },
+    {
+      "path": "packages/accounts-ui.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/accounts-ui.js?1ff79db616cce9b320fe8aed6103eded31248467",
+      "sourceMap": "packages/accounts-ui.js.map",
+      "sourceMapUrl": "/packages/1ff79db616cce9b320fe8aed6103eded31248467.map",
+      "size": 1346,
+      "hash": "1ff79db616cce9b320fe8aed6103eded31248467"
+    },
+    {
+      "path": "packages/ui.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8",
+      "sourceMap": "packages/ui.js.map",
+      "sourceMapUrl": "/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map",
+      "size": 1529,
+      "hash": "5a663333fd30f8fd913f110e0ef779e84f67c4b8"
+    },
+    {
+      "path": "packages/iron_core.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047",
+      "sourceMap": "packages/iron_core.js.map",
+      "sourceMapUrl": "/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map",
+      "size": 32915,
+      "hash": "d966a1f70c94792fd94c8a155bdbef9bec5e0047"
+    },
+    {
+      "path": "packages/iron_dynamic-template.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_dynamic-template.js?4d8240a576804301368600b388b97065770c2964",
+      "sourceMap": "packages/iron_dynamic-template.js.map",
+      "sourceMapUrl": "/packages/4d8240a576804301368600b388b97065770c2964.map",
+      "size": 85060,
+      "hash": "4d8240a576804301368600b388b97065770c2964"
+    },
+    {
+      "path": "packages/iron_layout.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062",
+      "sourceMap": "packages/iron_layout.js.map",
+      "sourceMapUrl": "/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map",
+      "size": 62058,
+      "hash": "4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062"
+    },
+    {
+      "path": "packages/iron_url.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_url.js?3a21b7348e189346a5f73bbe6220cc5257b9846e",
+      "sourceMap": "packages/iron_url.js.map",
+      "sourceMapUrl": "/packages/3a21b7348e189346a5f73bbe6220cc5257b9846e.map",
+      "size": 65622,
+      "hash": "3a21b7348e189346a5f73bbe6220cc5257b9846e"
+    },
+    {
+      "path": "packages/iron_middleware-stack.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_middleware-stack.js?87fc6153735b0c669013d562b796bbd57c993d79",
+      "sourceMap": "packages/iron_middleware-stack.js.map",
+      "sourceMapUrl": "/packages/87fc6153735b0c669013d562b796bbd57c993d79.map",
+      "size": 46799,
+      "hash": "87fc6153735b0c669013d562b796bbd57c993d79"
+    },
+    {
+      "path": "packages/iron_location.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_location.js?b56386f5e8c3b7b5f1bb101fbc8aaab9aff9ce25",
+      "sourceMap": "packages/iron_location.js.map",
+      "sourceMapUrl": "/packages/b56386f5e8c3b7b5f1bb101fbc8aaab9aff9ce25.map",
+      "size": 51127,
+      "hash": "b56386f5e8c3b7b5f1bb101fbc8aaab9aff9ce25"
+    },
+    {
+      "path": "packages/iron_controller.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_controller.js?c4a074a0f421ce052a59282e7eae64f7049061cb",
+      "sourceMap": "packages/iron_controller.js.map",
+      "sourceMapUrl": "/packages/c4a074a0f421ce052a59282e7eae64f7049061cb.map",
+      "size": 41091,
+      "hash": "c4a074a0f421ce052a59282e7eae64f7049061cb"
+    },
+    {
+      "path": "packages/iron_router.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/iron_router.js?0151d2075090eb70fafb186dca64a57435104aa9",
+      "sourceMap": "packages/iron_router.js.map",
+      "sourceMapUrl": "/packages/0151d2075090eb70fafb186dca64a57435104aa9.map",
+      "size": 213813,
+      "hash": "0151d2075090eb70fafb186dca64a57435104aa9"
+    },
+    {
+      "path": "packages/chuangbo_cookie.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/chuangbo_cookie.js?06436babb94ec01963deef78f0a86cf163cf06f4",
+      "sourceMap": "packages/chuangbo_cookie.js.map",
+      "sourceMapUrl": "/packages/06436babb94ec01963deef78f0a86cf163cf06f4.map",
+      "size": 18681,
+      "hash": "06436babb94ec01963deef78f0a86cf163cf06f4"
+    },
+    {
+      "path": "packages/meteorhacks_fast-render.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteorhacks_fast-render.js?6124869b3b4f1c1dc6e5264821b1496dc7d69e91",
+      "sourceMap": "packages/meteorhacks_fast-render.js.map",
+      "sourceMapUrl": "/packages/6124869b3b4f1c1dc6e5264821b1496dc7d69e91.map",
+      "size": 47070,
+      "hash": "6124869b3b4f1c1dc6e5264821b1496dc7d69e91"
+    },
+    {
+      "path": "packages/meteorhacks_subs-manager.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteorhacks_subs-manager.js?bae123dfa8c7b011903991d78648076fecd6bc5c",
+      "sourceMap": "packages/meteorhacks_subs-manager.js.map",
+      "sourceMapUrl": "/packages/bae123dfa8c7b011903991d78648076fecd6bc5c.map",
+      "size": 12999,
+      "hash": "bae123dfa8c7b011903991d78648076fecd6bc5c"
+    },
+    {
+      "path": "packages/meteorhacks_npm.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteorhacks_npm.js?604e35d5437f43224cde2c1f9e5e9aace95a9a95",
+      "sourceMap": "packages/meteorhacks_npm.js.map",
+      "sourceMapUrl": "/packages/604e35d5437f43224cde2c1f9e5e9aace95a9a95.map",
+      "size": 1300,
+      "hash": "604e35d5437f43224cde2c1f9e5e9aace95a9a95"
+    },
+    {
+      "path": "packages/aldeed_simple-schema.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/aldeed_simple-schema.js?f9f115ce8032ac525bc2dde8cca4ab5937f22441",
+      "sourceMap": "packages/aldeed_simple-schema.js.map",
+      "sourceMapUrl": "/packages/f9f115ce8032ac525bc2dde8cca4ab5937f22441.map",
+      "size": 472789,
+      "hash": "f9f115ce8032ac525bc2dde8cca4ab5937f22441"
+    },
+    {
+      "path": "packages/livedata.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1",
+      "sourceMap": "packages/livedata.js.map",
+      "sourceMapUrl": "/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map",
+      "size": 1413,
+      "hash": "718526445deb4d9baacb6d92c551adea1d36c1e1"
+    },
+    {
+      "path": "packages/mrt_moment.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mrt_moment.js?d7e4a40c3c8d0a0bbca78591d0b5385f3271212c",
+      "sourceMap": "packages/mrt_moment.js.map",
+      "sourceMapUrl": "/packages/d7e4a40c3c8d0a0bbca78591d0b5385f3271212c.map",
+      "size": 359656,
+      "hash": "d7e4a40c3c8d0a0bbca78591d0b5385f3271212c"
+    },
+    {
+      "path": "packages/mongo-livedata.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mongo-livedata.js?e6ebca489f38b73788b494509a4f83d87fdbf6c0",
+      "sourceMap": "packages/mongo-livedata.js.map",
+      "sourceMapUrl": "/packages/e6ebca489f38b73788b494509a4f83d87fdbf6c0.map",
+      "size": 1299,
+      "hash": "e6ebca489f38b73788b494509a4f83d87fdbf6c0"
+    },
+    {
+      "path": "packages/aldeed_collection2.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/aldeed_collection2.js?525ba7d2b38809f4b3de1e552fabb647d8fc56ae",
+      "sourceMap": "packages/aldeed_collection2.js.map",
+      "sourceMapUrl": "/packages/525ba7d2b38809f4b3de1e552fabb647d8fc56ae.map",
+      "size": 69751,
+      "hash": "525ba7d2b38809f4b3de1e552fabb647d8fc56ae"
+    },
+    {
+      "path": "packages/aldeed_autoform.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/aldeed_autoform.js?dfc520134764cd792fd02834438dab5cb2b2d819",
+      "sourceMap": "packages/aldeed_autoform.js.map",
+      "sourceMapUrl": "/packages/dfc520134764cd792fd02834438dab5cb2b2d819.map",
+      "size": 931800,
+      "hash": "dfc520134764cd792fd02834438dab5cb2b2d819"
+    },
+    {
+      "path": "packages/mrt_jquery-hotkeys.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mrt_jquery-hotkeys.js?a8f2d81c44b95fc0b478ecf319fc7c25be43b0ae",
+      "sourceMap": "packages/mrt_jquery-hotkeys.js.map",
+      "sourceMapUrl": "/packages/a8f2d81c44b95fc0b478ecf319fc7c25be43b0ae.map",
+      "size": 14771,
+      "hash": "a8f2d81c44b95fc0b478ecf319fc7c25be43b0ae"
+    },
+    {
+      "path": "packages/mrt_cookies.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mrt_cookies.js?2a1fea5e5d64d864a94dced515ccdc633e1c0af4",
+      "sourceMap": "packages/mrt_cookies.js.map",
+      "sourceMapUrl": "/packages/2a1fea5e5d64d864a94dced515ccdc633e1c0af4.map",
+      "size": 13844,
+      "hash": "2a1fea5e5d64d864a94dced515ccdc633e1c0af4"
+    },
+    {
+      "path": "packages/mrt_mailchimp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/mrt_mailchimp.js?676a6f8f8f90d71520bc2ac5690892410292e283",
+      "sourceMap": "packages/mrt_mailchimp.js.map",
+      "sourceMapUrl": "/packages/676a6f8f8f90d71520bc2ac5690892410292e283.map",
+      "size": 21034,
+      "hash": "676a6f8f8f90d71520bc2ac5690892410292e283"
+    },
+    {
+      "path": "packages/cmather_handlebars-server.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/cmather_handlebars-server.js?c6447646a77dd2f090e33422fff58fbec1bbd4f6",
+      "sourceMap": "packages/cmather_handlebars-server.js.map",
+      "sourceMapUrl": "/packages/c6447646a77dd2f090e33422fff58fbec1bbd4f6.map",
+      "size": 1310,
+      "hash": "c6447646a77dd2f090e33422fff58fbec1bbd4f6"
+    },
+    {
+      "path": "packages/sacha_spin.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/sacha_spin.js?6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04",
+      "sourceMap": "packages/sacha_spin.js.map",
+      "sourceMapUrl": "/packages/6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04.map",
+      "size": 48440,
+      "hash": "6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04"
+    },
+    {
+      "path": "packages/sacha_juice.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/sacha_juice.js?ddb394caa985e72e905fae1e0e8c2dafd3fa02b2",
+      "sourceMap": "packages/sacha_juice.js.map",
+      "sourceMapUrl": "/packages/ddb394caa985e72e905fae1e0e8c2dafd3fa02b2.map",
+      "size": 1354,
+      "hash": "ddb394caa985e72e905fae1e0e8c2dafd3fa02b2"
+    },
+    {
+      "path": "packages/chuangbo_marked.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/chuangbo_marked.js?e581a50a8d5be2080cf932804ae196aba7b1f0ac",
+      "sourceMap": "packages/chuangbo_marked.js.map",
+      "sourceMapUrl": "/packages/e581a50a8d5be2080cf932804ae196aba7b1f0ac.map",
+      "size": 114202,
+      "hash": "e581a50a8d5be2080cf932804ae196aba7b1f0ac"
+    },
+    {
+      "path": "packages/percolatestudio_synced-cron.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/percolatestudio_synced-cron.js?ce4455591d0b3edd1b7e3cf30df0ef7a3af2f93d",
+      "sourceMap": "packages/percolatestudio_synced-cron.js.map",
+      "sourceMapUrl": "/packages/ce4455591d0b3edd1b7e3cf30df0ef7a3af2f93d.map",
+      "size": 1312,
+      "hash": "ce4455591d0b3edd1b7e3cf30df0ef7a3af2f93d"
+    },
+    {
+      "path": "packages/npm-container.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/npm-container.js?c4195e22b5a0a7239a415a3d95b3b702c34fa28d",
+      "sourceMap": "packages/npm-container.js.map",
+      "sourceMapUrl": "/packages/c4195e22b5a0a7239a415a3d95b3b702c34fa28d.map",
+      "size": 1298,
+      "hash": "c4195e22b5a0a7239a415a3d95b3b702c34fa28d"
+    },
+    {
+      "path": "packages/matb33_collection-hooks.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/matb33_collection-hooks.js?84daec53acb7414b5b58c578a4921f5aaac2f2ec",
+      "sourceMap": "packages/matb33_collection-hooks.js.map",
+      "sourceMapUrl": "/packages/84daec53acb7414b5b58c578a4921f5aaac2f2ec.map",
+      "size": 73770,
+      "hash": "84daec53acb7414b5b58c578a4921f5aaac2f2ec"
+    },
+    {
+      "path": "packages/djedi_sanitize-html.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/djedi_sanitize-html.js?bdee7bda2ad0671201e63f9cb3180ab6d1a07ad3",
+      "sourceMap": "packages/djedi_sanitize-html.js.map",
+      "sourceMapUrl": "/packages/bdee7bda2ad0671201e63f9cb3180ab6d1a07ad3.map",
+      "size": 1304,
+      "hash": "bdee7bda2ad0671201e63f9cb3180ab6d1a07ad3"
+    },
+    {
+      "path": "packages/rajit_bootstrap3-datepicker.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/rajit_bootstrap3-datepicker.js?822806a6bbf9e439f7ddaace893bf390c25431b9",
+      "sourceMap": "packages/rajit_bootstrap3-datepicker.js.map",
+      "sourceMapUrl": "/packages/822806a6bbf9e439f7ddaace893bf390c25431b9.map",
+      "size": 198438,
+      "hash": "822806a6bbf9e439f7ddaace893bf390c25431b9"
+    },
+    {
+      "path": "packages/stylus.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/stylus.js?48b7e3e0953c004a73211d7489462e73ed11be2c",
+      "sourceMap": "packages/stylus.js.map",
+      "sourceMapUrl": "/packages/48b7e3e0953c004a73211d7489462e73ed11be2c.map",
+      "size": 1288,
+      "hash": "48b7e3e0953c004a73211d7489462e73ed11be2c"
+    },
+    {
+      "path": "packages/jparker_crypto-core.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/jparker_crypto-core.js?8d7a2b0f9acbbc7dbf0bbbceed45257c91418bbc",
+      "sourceMap": "packages/jparker_crypto-core.js.map",
+      "sourceMapUrl": "/packages/8d7a2b0f9acbbc7dbf0bbbceed45257c91418bbc.map",
+      "size": 86948,
+      "hash": "8d7a2b0f9acbbc7dbf0bbbceed45257c91418bbc"
+    },
+    {
+      "path": "packages/jparker_crypto-md5.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/jparker_crypto-md5.js?10c2710f182ea3d81d6b1e2deda16f8f37d3a607",
+      "sourceMap": "packages/jparker_crypto-md5.js.map",
+      "sourceMapUrl": "/packages/10c2710f182ea3d81d6b1e2deda16f8f37d3a607.map",
+      "size": 24049,
+      "hash": "10c2710f182ea3d81d6b1e2deda16f8f37d3a607"
+    },
+    {
+      "path": "packages/jparker_gravatar.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/jparker_gravatar.js?7c397392549dc8d918d0cea6fc18378e402010e9",
+      "sourceMap": "packages/jparker_gravatar.js.map",
+      "sourceMapUrl": "/packages/7c397392549dc8d918d0cea6fc18378e402010e9.map",
+      "size": 8651,
+      "hash": "7c397392549dc8d918d0cea6fc18378e402010e9"
+    },
+    {
+      "path": "packages/bengott_avatar.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/bengott_avatar.js?dc5eaaaed5db3f5d94985d39743ae16e75e5d970",
+      "sourceMap": "packages/bengott_avatar.js.map",
+      "sourceMapUrl": "/packages/dc5eaaaed5db3f5d94985d39743ae16e75e5d970.map",
+      "size": 30439,
+      "hash": "dc5eaaaed5db3f5d94985d39743ae16e75e5d970"
+    },
+    {
+      "path": "packages/telescope-i18n.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-i18n.js?a002a136122e12e4ff91bb13f3060ebd9a0c180e",
+      "sourceMap": "packages/telescope-i18n.js.map",
+      "sourceMapUrl": "/packages/a002a136122e12e4ff91bb13f3060ebd9a0c180e.map",
+      "size": 3516,
+      "hash": "a002a136122e12e4ff91bb13f3060ebd9a0c180e"
+    },
+    {
+      "path": "packages/telescope-lib.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-lib.js?6f9b99e6c30ebf4cf3c5718e717d8ac3c8320665",
+      "sourceMap": "packages/telescope-lib.js.map",
+      "sourceMapUrl": "/packages/6f9b99e6c30ebf4cf3c5718e717d8ac3c8320665.map",
+      "size": 42769,
+      "hash": "6f9b99e6c30ebf4cf3c5718e717d8ac3c8320665"
+    },
+    {
+      "path": "packages/telescope-base.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-base.js?fde67067fcc846b6c605719cdf461167961e0bc1",
+      "sourceMap": "packages/telescope-base.js.map",
+      "sourceMapUrl": "/packages/fde67067fcc846b6c605719cdf461167961e0bc1.map",
+      "size": 24438,
+      "hash": "fde67067fcc846b6c605719cdf461167961e0bc1"
+    },
+    {
+      "path": "packages/telescope-theme-base.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-theme-base.js?3273d9e9964850d3d3a414850f73c55eba10c62e",
+      "sourceMap": "packages/telescope-theme-base.js.map",
+      "sourceMapUrl": "/packages/3273d9e9964850d3d3a414850f73c55eba10c62e.map",
+      "size": 4397,
+      "hash": "3273d9e9964850d3d3a414850f73c55eba10c62e"
+    },
+    {
+      "path": "packages/telescope-module-share.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-module-share.js?37c7d60b8f8bde120f2da107acce4dcac6b62df3",
+      "sourceMap": "packages/telescope-module-share.js.map",
+      "sourceMapUrl": "/packages/37c7d60b8f8bde120f2da107acce4dcac6b62df3.map",
+      "size": 15459,
+      "hash": "37c7d60b8f8bde120f2da107acce4dcac6b62df3"
+    },
+    {
+      "path": "packages/telescope-api.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-api.js?659d0d22dce6559fee6fdb730a2d013815c242b6",
+      "sourceMap": "packages/telescope-api.js.map",
+      "sourceMapUrl": "/packages/659d0d22dce6559fee6fdb730a2d013815c242b6.map",
+      "size": 1365,
+      "hash": "659d0d22dce6559fee6fdb730a2d013815c242b6"
+    },
+    {
+      "path": "packages/telescope-rss.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-rss.js?f526c45c5a7e83527e38fbeb156110616ff30197",
+      "sourceMap": "packages/telescope-rss.js.map",
+      "sourceMapUrl": "/packages/f526c45c5a7e83527e38fbeb156110616ff30197.map",
+      "size": 1365,
+      "hash": "f526c45c5a7e83527e38fbeb156110616ff30197"
+    },
+    {
+      "path": "packages/telescope-search.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-search.js?fdeb0eae6cd0df14e69390a8f15f8d517dfdae91",
+      "sourceMap": "packages/telescope-search.js.map",
+      "sourceMapUrl": "/packages/fdeb0eae6cd0df14e69390a8f15f8d517dfdae91.map",
+      "size": 40517,
+      "hash": "fdeb0eae6cd0df14e69390a8f15f8d517dfdae91"
+    },
+    {
+      "path": "packages/telescope-tags.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-tags.js?09069c866f1ecfe0ee11d5a7995a9bd36df6c008",
+      "sourceMap": "packages/telescope-tags.js.map",
+      "sourceMapUrl": "/packages/09069c866f1ecfe0ee11d5a7995a9bd36df6c008.map",
+      "size": 50689,
+      "hash": "09069c866f1ecfe0ee11d5a7995a9bd36df6c008"
+    },
+    {
+      "path": "packages/telescope-theme-hubble.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-theme-hubble.js?9525d3164468b7dd27b009440c0f1b5b20a958d3",
+      "sourceMap": "packages/telescope-theme-hubble.js.map",
+      "sourceMapUrl": "/packages/9525d3164468b7dd27b009440c0f1b5b20a958d3.map",
+      "size": 5209,
+      "hash": "9525d3164468b7dd27b009440c0f1b5b20a958d3"
+    },
+    {
+      "path": "packages/telescope-email.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-email.js?100a9262b329a10c941d9c6cf21d2519468f4185",
+      "sourceMap": "packages/telescope-email.js.map",
+      "sourceMapUrl": "/packages/100a9262b329a10c941d9c6cf21d2519468f4185.map",
+      "size": 4783,
+      "hash": "100a9262b329a10c941d9c6cf21d2519468f4185"
+    },
+    {
+      "path": "packages/telescope-module-embedly.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-module-embedly.js?e8cd71a311ee66ef2d3fb94259f32dd3095c83b4",
+      "sourceMap": "packages/telescope-module-embedly.js.map",
+      "sourceMapUrl": "/packages/e8cd71a311ee66ef2d3fb94259f32dd3095c83b4.map",
+      "size": 20117,
+      "hash": "e8cd71a311ee66ef2d3fb94259f32dd3095c83b4"
+    },
+    {
+      "path": "packages/telescope-newsletter.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-newsletter.js?c5f7eb07bb8991c5e25d2d97482fb1fd3e9dbdee",
+      "sourceMap": "packages/telescope-newsletter.js.map",
+      "sourceMapUrl": "/packages/c5f7eb07bb8991c5e25d2d97482fb1fd3e9dbdee.map",
+      "size": 38645,
+      "hash": "c5f7eb07bb8991c5e25d2d97482fb1fd3e9dbdee"
+    },
+    {
+      "path": "packages/telescope-daily.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-daily.js?0aead8af06fbe1216b43773e96c3c967e0ba5594",
+      "sourceMap": "packages/telescope-daily.js.map",
+      "sourceMapUrl": "/packages/0aead8af06fbe1216b43773e96c3c967e0ba5594.map",
+      "size": 26759,
+      "hash": "0aead8af06fbe1216b43773e96c3c967e0ba5594"
+    },
+    {
+      "path": "packages/telescope-update-prompt.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-update-prompt.js?276bbf09a97971c2299b9b2703b92b38855c3e30",
+      "sourceMap": "packages/telescope-update-prompt.js.map",
+      "sourceMapUrl": "/packages/276bbf09a97971c2299b9b2703b92b38855c3e30.map",
+      "size": 13936,
+      "hash": "276bbf09a97971c2299b9b2703b92b38855c3e30"
+    },
+    {
+      "path": "packages/telescope-kadira.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-kadira.js?9555e507417c8d68ef905879d21a979484e27c2a",
+      "sourceMap": "packages/telescope-kadira.js.map",
+      "sourceMapUrl": "/packages/9555e507417c8d68ef905879d21a979484e27c2a.map",
+      "size": 6795,
+      "hash": "9555e507417c8d68ef905879d21a979484e27c2a"
+    },
+    {
+      "path": "packages/artwells_queue.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/artwells_queue.js?b4b1aafd16b51fb25b7695ab2be218b86f9be2bc",
+      "sourceMap": "packages/artwells_queue.js.map",
+      "sourceMapUrl": "/packages/b4b1aafd16b51fb25b7695ab2be218b86f9be2bc.map",
+      "size": 1299,
+      "hash": "b4b1aafd16b51fb25b7695ab2be218b86f9be2bc"
+    },
+    {
+      "path": "packages/kestanous_herald.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/kestanous_herald.js?ceb34e5a03ae0ec5e9ac125bdd391414fd8f7912",
+      "sourceMap": "packages/kestanous_herald.js.map",
+      "sourceMapUrl": "/packages/ceb34e5a03ae0ec5e9ac125bdd391414fd8f7912.map",
+      "size": 79097,
+      "hash": "ceb34e5a03ae0ec5e9ac125bdd391414fd8f7912"
+    },
+    {
+      "path": "packages/kestanous_herald-email.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/kestanous_herald-email.js?1f69431f16bcfd9b7ae4a8b1819179979157ab25",
+      "sourceMap": "packages/kestanous_herald-email.js.map",
+      "sourceMapUrl": "/packages/1f69431f16bcfd9b7ae4a8b1819179979157ab25.map",
+      "size": 4549,
+      "hash": "1f69431f16bcfd9b7ae4a8b1819179979157ab25"
+    },
+    {
+      "path": "packages/telescope-notifications.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/telescope-notifications.js?05bc3e7a02691d8f436773fe1478ba9d0935731e",
+      "sourceMap": "packages/telescope-notifications.js.map",
+      "sourceMapUrl": "/packages/05bc3e7a02691d8f436773fe1478ba9d0935731e.map",
+      "size": 61877,
+      "hash": "05bc3e7a02691d8f436773fe1478ba9d0935731e"
+    },
+    {
+      "path": "packages/useraccounts_core.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/useraccounts_core.js?5285c8371913c9215f21b8eaef791d4533e49213",
+      "sourceMap": "packages/useraccounts_core.js.map",
+      "sourceMapUrl": "/packages/5285c8371913c9215f21b8eaef791d4533e49213.map",
+      "size": 274456,
+      "hash": "5285c8371913c9215f21b8eaef791d4533e49213"
+    },
+    {
+      "path": "packages/coffeescript.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/coffeescript.js?969f68786bbc68e6cad299e74922a53af3d1404b",
+      "sourceMap": "packages/coffeescript.js.map",
+      "sourceMapUrl": "/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map",
+      "size": 1294,
+      "hash": "969f68786bbc68e6cad299e74922a53af3d1404b"
+    },
+    {
+      "path": "packages/softwarerero_accounts-t9n.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/softwarerero_accounts-t9n.js?fd06391c442da622fb79563fa1ce9dcd94f53fdd",
+      "sourceMap": "packages/softwarerero_accounts-t9n.js.map",
+      "sourceMapUrl": "/packages/fd06391c442da622fb79563fa1ce9dcd94f53fdd.map",
+      "size": 123437,
+      "hash": "fd06391c442da622fb79563fa1ce9dcd94f53fdd"
+    },
+    {
+      "path": "packages/useraccounts_unstyled.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/useraccounts_unstyled.js?9dadef186b9b6ab6b420dd29490fb7e1c9d46c20",
+      "sourceMap": "packages/useraccounts_unstyled.js.map",
+      "sourceMapUrl": "/packages/9dadef186b9b6ab6b420dd29490fb7e1c9d46c20.map",
+      "size": 83920,
+      "hash": "9dadef186b9b6ab6b420dd29490fb7e1c9d46c20"
+    },
+    {
+      "path": "packages/meteorhacks_kadira-binary-deps.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteorhacks_kadira-binary-deps.js?a244ee2e16791a2e0fed6ce317583265afab7c0c",
+      "sourceMap": "packages/meteorhacks_kadira-binary-deps.js.map",
+      "sourceMapUrl": "/packages/a244ee2e16791a2e0fed6ce317583265afab7c0c.map",
+      "size": 1406,
+      "hash": "a244ee2e16791a2e0fed6ce317583265afab7c0c"
+    },
+    {
+      "path": "packages/meteorhacks_meteorx.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteorhacks_meteorx.js?afd5ff95b1c1492f60049925f1f827e2b5817bbb",
+      "sourceMap": "packages/meteorhacks_meteorx.js.map",
+      "sourceMapUrl": "/packages/afd5ff95b1c1492f60049925f1f827e2b5817bbb.map",
+      "size": 1368,
+      "hash": "afd5ff95b1c1492f60049925f1f827e2b5817bbb"
+    },
+    {
+      "path": "packages/meteorhacks_kadira.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteorhacks_kadira.js?9ee74fb46169e30c92bbd18945d536af2cb8c65f",
+      "sourceMap": "packages/meteorhacks_kadira.js.map",
+      "sourceMapUrl": "/packages/9ee74fb46169e30c92bbd18945d536af2cb8c65f.map",
+      "size": 97584,
+      "hash": "9ee74fb46169e30c92bbd18945d536af2cb8c65f"
+    },
+    {
+      "path": "packages/autoupdate.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/autoupdate.js?c823646e93561d86e6bcb3cbd2457a8540e519c1",
+      "sourceMap": "packages/autoupdate.js.map",
+      "sourceMapUrl": "/packages/c823646e93561d86e6bcb3cbd2457a8540e519c1.map",
+      "size": 17152,
+      "hash": "c823646e93561d86e6bcb3cbd2457a8540e519c1"
+    },
+    {
+      "path": "packages/meteor-platform.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3",
+      "sourceMap": "packages/meteor-platform.js.map",
+      "sourceMapUrl": "/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map",
+      "size": 1384,
+      "hash": "499a2f8522e25820b1153c69a92751ccaae507b3"
+    },
+    {
+      "path": "packages/meteorhacks_async.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/meteorhacks_async.js?e687b9e863dc811fb3f313d1c6f237c7a2b1924b",
+      "sourceMap": "packages/meteorhacks_async.js.map",
+      "sourceMapUrl": "/packages/e687b9e863dc811fb3f313d1c6f237c7a2b1924b.map",
+      "size": 1360,
+      "hash": "e687b9e863dc811fb3f313d1c6f237c7a2b1924b"
+    },
+    {
+      "path": "packages/webapp.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328",
+      "sourceMap": "packages/webapp.js.map",
+      "sourceMapUrl": "/packages/e1be090051b82f046484dccc2de7d747e50c7328.map",
+      "size": 3106,
+      "hash": "e1be090051b82f046484dccc2de7d747e50c7328"
+    },
+    {
+      "path": "packages/spacebars.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/spacebars.js?3c496d2950151d744a8574297b46d2763a123bdf",
+      "sourceMap": "packages/spacebars.js.map",
+      "sourceMapUrl": "/packages/3c496d2950151d744a8574297b46d2763a123bdf.map",
+      "size": 42134,
+      "hash": "3c496d2950151d744a8574297b46d2763a123bdf"
+    },
+    {
+      "path": "packages/launch-screen.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9",
+      "sourceMap": "packages/launch-screen.js.map",
+      "sourceMapUrl": "/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map",
+      "size": 9707,
+      "hash": "13e1092ebecdb7208762500188f1dc2dea5603e9"
+    },
+    {
+      "path": "packages/global-imports.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/packages/global-imports.js?c9d3b421c091373c09b96e5b4db2de9326b629cc",
+      "size": 5585,
+      "hash": "c9d3b421c091373c09b96e5b4db2de9326b629cc"
+    },
+    {
+      "path": "app/client/views/posts/modules/template.post_actions.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/template.post_actions.js?e617ad23ec7ef1b816af054d30f6957a97d88f3c",
+      "size": 278,
+      "hash": "e617ad23ec7ef1b816af054d30f6957a97d88f3c"
+    },
+    {
+      "path": "app/client/views/posts/modules/template.post_admin.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/template.post_admin.js?c7ceac9b9cd4a3b40c459fdeee64e608eca8abd6",
+      "size": 1568,
+      "hash": "c7ceac9b9cd4a3b40c459fdeee64e608eca8abd6"
+    },
+    {
+      "path": "app/client/views/posts/modules/template.post_comments_link.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/template.post_comments_link.js?32ea6d113f3fdb0d7ee41ebaddfdafd14406d359",
+      "size": 686,
+      "hash": "32ea6d113f3fdb0d7ee41ebaddfdafd14406d359"
+    },
+    {
+      "path": "app/client/views/posts/modules/template.post_content.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/template.post_content.js?bff3ef38e3b18fb20004e5620c86d46d8a7e89e8",
+      "size": 1252,
+      "hash": "bff3ef38e3b18fb20004e5620c86d46d8a7e89e8"
+    },
+    {
+      "path": "app/client/views/posts/modules/template.post_discuss.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/template.post_discuss.js?be34fffd3660825c092bda701be2eff55fe44c1e",
+      "size": 657,
+      "hash": "be34fffd3660825c092bda701be2eff55fe44c1e"
+    },
+    {
+      "path": "app/client/views/posts/modules/template.post_domain.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/template.post_domain.js?98ebdeefb174bb089f7c2a719148cf58c5961d25",
+      "size": 405,
+      "hash": "98ebdeefb174bb089f7c2a719148cf58c5961d25"
+    },
+    {
+      "path": "app/client/views/posts/modules/template.post_info.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/template.post_info.js?3e5f8c93083c3d7efa1496e2d570f46094852e0d",
+      "size": 1175,
+      "hash": "3e5f8c93083c3d7efa1496e2d570f46094852e0d"
+    },
+    {
+      "path": "app/client/views/posts/modules/template.post_title.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/template.post_title.js?b48f528b89529205565168dc8ccf508ee27bba10",
+      "size": 465,
+      "hash": "b48f528b89529205565168dc8ccf508ee27bba10"
+    },
+    {
+      "path": "app/client/views/posts/modules/template.post_upvote.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/template.post_upvote.js?e7de33ea2b85ed50d9f2749840e3c5a57314b1b5",
+      "size": 930,
+      "hash": "e7de33ea2b85ed50d9f2749840e3c5a57314b1b5"
+    },
+    {
+      "path": "app/client/views/admin/template.settings.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/admin/template.settings.js?55b19521f0ed3bbfe6afd41d079ca9aed4296a20",
+      "size": 1424,
+      "hash": "55b19521f0ed3bbfe6afd41d079ca9aed4296a20"
+    },
+    {
+      "path": "app/client/views/admin/template.toolbox.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/admin/template.toolbox.js?dda7d95b792635cd8014ac28d315c5108ccd20b6",
+      "size": 369,
+      "hash": "dda7d95b792635cd8014ac28d315c5108ccd20b6"
+    },
+    {
+      "path": "app/client/views/comments/template.comment_deleted.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/template.comment_deleted.js?e5fc6568bf3e39eafb8f844f00a2a695d368ea0e",
+      "size": 374,
+      "hash": "e5fc6568bf3e39eafb8f844f00a2a695d368ea0e"
+    },
+    {
+      "path": "app/client/views/comments/template.comment_edit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/template.comment_edit.js?b1cb3e67878ce81138fc54e679b8fa300f1b1ec8",
+      "size": 1417,
+      "hash": "b1cb3e67878ce81138fc54e679b8fa300f1b1ec8"
+    },
+    {
+      "path": "app/client/views/comments/template.comment_form.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/template.comment_form.js?a2f786a49baa0297c9e4e09bc9c8f9ef68f6b571",
+      "size": 904,
+      "hash": "a2f786a49baa0297c9e4e09bc9c8f9ef68f6b571"
+    },
+    {
+      "path": "app/client/views/comments/template.comment_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/template.comment_item.js?1a21b8c1548727c1fe11509a92c2b5b66552bf39",
+      "size": 5470,
+      "hash": "1a21b8c1548727c1fe11509a92c2b5b66552bf39"
+    },
+    {
+      "path": "app/client/views/comments/template.comment_list.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/template.comment_list.js?2752a9c4af37d8c5c6adb292fdc15b2fb98a9bf1",
+      "size": 636,
+      "hash": "2752a9c4af37d8c5c6adb292fdc15b2fb98a9bf1"
+    },
+    {
+      "path": "app/client/views/comments/template.comment_reply.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/template.comment_reply.js?6c73c251df93a3436ed8d072a29bbd27b4c2ab80",
+      "size": 1597,
+      "hash": "6c73c251df93a3436ed8d072a29bbd27b4c2ab80"
+    },
+    {
+      "path": "app/client/views/common/template.css.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/template.css.js?deeb90a6e0766217bbee4708603e9707468b9937",
+      "size": 2069,
+      "hash": "deeb90a6e0766217bbee4708603e9707468b9937"
+    },
+    {
+      "path": "app/client/views/common/template.error.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/template.error.js?f0a37c89fdb97abb8c4de66de660feec44456df0",
+      "size": 527,
+      "hash": "f0a37c89fdb97abb8c4de66de660feec44456df0"
+    },
+    {
+      "path": "app/client/views/common/template.error_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/template.error_item.js?cae778614581da7d7483aaa6f95bdaa84bb22a82",
+      "size": 613,
+      "hash": "cae778614581da7d7483aaa6f95bdaa84bb22a82"
+    },
+    {
+      "path": "app/client/views/common/template.footer.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/template.footer.js?7bf84058ccf7a2303228d79e1f075602614fdb96",
+      "size": 957,
+      "hash": "7bf84058ccf7a2303228d79e1f075602614fdb96"
+    },
+    {
+      "path": "app/client/views/common/template.layout.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/template.layout.js?e03aee947147490aa3cd489f33c3e09206ad3313",
+      "size": 2383,
+      "hash": "e03aee947147490aa3cd489f33c3e09206ad3313"
+    },
+    {
+      "path": "app/client/views/errors/template.already_logged_in.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/errors/template.already_logged_in.js?68bebe727d43281d7fd4fc9858c44a73a86457cd",
+      "size": 380,
+      "hash": "68bebe727d43281d7fd4fc9858c44a73a86457cd"
+    },
+    {
+      "path": "app/client/views/errors/template.loading.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/errors/template.loading.js?6515234ce00c848523b6e4d2ac40d0addb7ed13e",
+      "size": 274,
+      "hash": "6515234ce00c848523b6e4d2ac40d0addb7ed13e"
+    },
+    {
+      "path": "app/client/views/errors/template.no_account.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/errors/template.no_account.js?40749ce0a8153f5b32b634414079cf4f3390d274",
+      "size": 761,
+      "hash": "40749ce0a8153f5b32b634414079cf4f3390d274"
+    },
+    {
+      "path": "app/client/views/errors/template.no_invite.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/errors/template.no_invite.js?759f053c5ab248dbf050ce379fd6e3b6f2d98907",
+      "size": 644,
+      "hash": "759f053c5ab248dbf050ce379fd6e3b6f2d98907"
+    },
+    {
+      "path": "app/client/views/errors/template.no_rights.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/errors/template.no_rights.js?c5b979034ce5ea7c22019ea5a6e5e8850aeea0e5",
+      "size": 377,
+      "hash": "c5b979034ce5ea7c22019ea5a6e5e8850aeea0e5"
+    },
+    {
+      "path": "app/client/views/errors/template.not_found.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/errors/template.not_found.js?ae3a0ba7e43d2511c25fdbd7dc7065ee4b1334c4",
+      "size": 498,
+      "hash": "ae3a0ba7e43d2511c25fdbd7dc7065ee4b1334c4"
+    },
+    {
+      "path": "app/client/views/nav/template.admin_menu.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/template.admin_menu.js?91da04851a97c9e95481f2587374bde3069c3248",
+      "size": 1214,
+      "hash": "91da04851a97c9e95481f2587374bde3069c3248"
+    },
+    {
+      "path": "app/client/views/nav/template.menu_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/template.menu_item.js?f02125537ff7d403779e1c17ff6a7187a655bb88",
+      "size": 429,
+      "hash": "f02125537ff7d403779e1c17ff6a7187a655bb88"
+    },
+    {
+      "path": "app/client/views/nav/template.mobile_nav.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/template.mobile_nav.js?2e2bcf89067a2fc8d3c62c1ec2430cd21d8f78eb",
+      "size": 1265,
+      "hash": "2e2bcf89067a2fc8d3c62c1ec2430cd21d8f78eb"
+    },
+    {
+      "path": "app/client/views/nav/template.nav.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/template.nav.js?09736b207d8aba9775bda8a34d7a33a5695dd7ce",
+      "size": 3309,
+      "hash": "09736b207d8aba9775bda8a34d7a33a5695dd7ce"
+    },
+    {
+      "path": "app/client/views/nav/template.submit_button.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/template.submit_button.js?6fe9327dd25f43f2fa934f00928f3813c0f71132",
+      "size": 502,
+      "hash": "6fe9327dd25f43f2fa934f00928f3813c0f71132"
+    },
+    {
+      "path": "app/client/views/nav/template.user_menu.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/template.user_menu.js?ceda838782a4a386228c2e711f09ff583645ef5a",
+      "size": 1699,
+      "hash": "ceda838782a4a386228c2e711f09ff583645ef5a"
+    },
+    {
+      "path": "app/client/views/nav/template.views_menu.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/template.views_menu.js?8b63949914391d59842b970c96b3d5b311fede5a",
+      "size": 1213,
+      "hash": "8b63949914391d59842b970c96b3d5b311fede5a"
+    },
+    {
+      "path": "app/client/views/posts/template.post_body.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.post_body.js?57d1bca38d099b87e742de430c0069bc6554d9fe",
+      "size": 317,
+      "hash": "57d1bca38d099b87e742de430c0069bc6554d9fe"
+    },
+    {
+      "path": "app/client/views/posts/template.post_deleted.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.post_deleted.js?bf5cd733444402e2f66be38a2380d1200fe31b95",
+      "size": 362,
+      "hash": "bf5cd733444402e2f66be38a2380d1200fe31b95"
+    },
+    {
+      "path": "app/client/views/posts/template.post_edit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.post_edit.js?303c55d4f22473fe3659df2a533c7d8e4fe147b5",
+      "size": 9846,
+      "hash": "303c55d4f22473fe3659df2a533c7d8e4fe147b5"
+    },
+    {
+      "path": "app/client/views/posts/template.post_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.post_item.js?9295e75d9b81068d9b49b6a788c043ca01a44301",
+      "size": 2817,
+      "hash": "9295e75d9b81068d9b49b6a788c043ca01a44301"
+    },
+    {
+      "path": "app/client/views/posts/template.post_page.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.post_page.js?7c00304f743179a50a9a11cdba6d0fb7a0ef52e8",
+      "size": 1403,
+      "hash": "7c00304f743179a50a9a11cdba6d0fb7a0ef52e8"
+    },
+    {
+      "path": "app/client/views/posts/template.post_submit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.post_submit.js?65b9330830fe7955b2a9ffa353572731697b8259",
+      "size": 6853,
+      "hash": "65b9330830fe7955b2a9ffa353572731697b8259"
+    },
+    {
+      "path": "app/client/views/posts/template.posts_digest.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.posts_digest.js?6b33fc7205a6b4db751a64d925bc916b3781248a",
+      "size": 2587,
+      "hash": "6b33fc7205a6b4db751a64d925bc916b3781248a"
+    },
+    {
+      "path": "app/client/views/posts/template.posts_list.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.posts_list.js?951aeb765cc5d0ef15b1d3d42ffbdc29dea19571",
+      "size": 1248,
+      "hash": "951aeb765cc5d0ef15b1d3d42ffbdc29dea19571"
+    },
+    {
+      "path": "app/client/views/posts/template.posts_list_incoming.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.posts_list_incoming.js?cd0823a47265c90a7b0c4ac9aadb057896e0985d",
+      "size": 865,
+      "hash": "cd0823a47265c90a7b0c4ac9aadb057896e0985d"
+    },
+    {
+      "path": "app/client/views/posts/template.posts_load_more.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/template.posts_load_more.js?65fa21ffc992d689df79ec6b41ad3f2aa8b18b35",
+      "size": 905,
+      "hash": "65fa21ffc992d689df79ec6b41ad3f2aa8b18b35"
+    },
+    {
+      "path": "app/client/views/settings/template.quickFormSettings.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/settings/template.quickFormSettings.js?174e4d6b4d4515130fec92013638f6aebccf80d0",
+      "size": 10662,
+      "hash": "174e4d6b4d4515130fec92013638f6aebccf80d0"
+    },
+    {
+      "path": "app/client/views/users/template.invites.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/template.invites.js?854243d70030a4baeb8a1eb83a4f5cf469e9ffd5",
+      "size": 2578,
+      "hash": "854243d70030a4baeb8a1eb83a4f5cf469e9ffd5"
+    },
+    {
+      "path": "app/client/views/users/template.user_edit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/template.user_edit.js?6625428570de1b77c8f3acf0db1337f8f7862d24",
+      "size": 8456,
+      "hash": "6625428570de1b77c8f3acf0db1337f8f7862d24"
+    },
+    {
+      "path": "app/client/views/users/template.user_email.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/template.user_email.js?1236589ddb19f28eae8d27791f66f22f0825b24d",
+      "size": 1718,
+      "hash": "1236589ddb19f28eae8d27791f66f22f0825b24d"
+    },
+    {
+      "path": "app/client/views/users/template.user_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/template.user_item.js?62d27c560077f4a3206dfaa0546780353c694a33",
+      "size": 3957,
+      "hash": "62d27c560077f4a3206dfaa0546780353c694a33"
+    },
+    {
+      "path": "app/client/views/users/template.user_profile.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/template.user_profile.js?d12be5165ac60248a0eb300a624af7f59eccf4de",
+      "size": 10794,
+      "hash": "d12be5165ac60248a0eb300a624af7f59eccf4de"
+    },
+    {
+      "path": "app/client/views/users/template.users.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/template.users.js?520ba887e16c4498a0a2941cc943d0e0da3ccc56",
+      "size": 6378,
+      "hash": "520ba887e16c4498a0a2941cc943d0e0da3ccc56"
+    },
+    {
+      "path": "app/lib/config/at_config.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/config/at_config.js?5d6cbf71c7df2e4fcf04e42ab3c348c70e9d64a3",
+      "size": 1787,
+      "hash": "5d6cbf71c7df2e4fcf04e42ab3c348c70e9d64a3"
+    },
+    {
+      "path": "app/lib/locales/de.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/locales/de.js?6ee5070a9b6772e42a46f747bfb84fd993f1c6bb",
+      "size": 8843,
+      "hash": "6ee5070a9b6772e42a46f747bfb84fd993f1c6bb"
+    },
+    {
+      "path": "app/lib/locales/en.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/locales/en.js?403c845b824af8c9306015839324571f7a1fd526",
+      "size": 8021,
+      "hash": "403c845b824af8c9306015839324571f7a1fd526"
+    },
+    {
+      "path": "app/lib/locales/es.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/locales/es.js?675d3fbdb042ce0142b9349187f7ca2f6382aed4",
+      "size": 7860,
+      "hash": "675d3fbdb042ce0142b9349187f7ca2f6382aed4"
+    },
+    {
+      "path": "app/lib/locales/fr.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/locales/fr.js?931b69d8b66dff34a9976a03e2e2f384032f3141",
+      "size": 7999,
+      "hash": "931b69d8b66dff34a9976a03e2e2f384032f3141"
+    },
+    {
+      "path": "app/lib/locales/it.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/locales/it.js?0d8365d1202d80d9abaa93c2d31f32f9d4699b18",
+      "size": 8554,
+      "hash": "0d8365d1202d80d9abaa93c2d31f32f9d4699b18"
+    },
+    {
+      "path": "app/lib/locales/zh.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/locales/zh.js?9de6f806c40d7fabe09f9395e173939819f899ff",
+      "size": 7059,
+      "hash": "9de6f806c40d7fabe09f9395e173939819f899ff"
+    },
+    {
+      "path": "app/lib/router/comments.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/router/comments.js?a9cb34f91a5df017c82465d88595237d6ec621ba",
+      "size": 1060,
+      "hash": "a9cb34f91a5df017c82465d88595237d6ec621ba"
+    },
+    {
+      "path": "app/lib/router/config.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/router/config.js?2e83ba89c109b0be7255c35b02b910cb0cdcd2ec",
+      "size": 1125,
+      "hash": "2e83ba89c109b0be7255c35b02b910cb0cdcd2ec"
+    },
+    {
+      "path": "app/lib/router/filters.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/router/filters.js?3809f4b917728214ea13b699f6a7a587671caecf",
+      "size": 4943,
+      "hash": "3809f4b917728214ea13b699f6a7a587671caecf"
+    },
+    {
+      "path": "app/lib/router/other.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/router/other.js?ad3426db0a6aca948f45f5d3c8b04dd7b3dfbb45",
+      "size": 593,
+      "hash": "ad3426db0a6aca948f45f5d3c8b04dd7b3dfbb45"
+    },
+    {
+      "path": "app/lib/router/posts.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/router/posts.js?a88c727bd4feab51148c4238af9cf40d661e253c",
+      "size": 6615,
+      "hash": "a88c727bd4feab51148c4238af9cf40d661e253c"
+    },
+    {
+      "path": "app/lib/router/server.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/router/server.js?edc3961d61bfffb5ca32816c5f7ddb4bfc3130ad",
+      "size": 1257,
+      "hash": "edc3961d61bfffb5ca32816c5f7ddb4bfc3130ad"
+    },
+    {
+      "path": "app/lib/router/users.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/router/users.js?8217a66577d2859fb0e1234ba1e5e9d26af7bb8c",
+      "size": 2780,
+      "hash": "8217a66577d2859fb0e1234ba1e5e9d26af7bb8c"
+    },
+    {
+      "path": "app/lib/analytics.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/analytics.js?5991b85b8da1fc5981b1e3bdeae493c9beba38ad",
+      "size": 3742,
+      "hash": "5991b85b8da1fc5981b1e3bdeae493c9beba38ad"
+    },
+    {
+      "path": "app/lib/errors.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/errors.js?55569ada76591fc8604202d0255f32af859aa8b4",
+      "size": 379,
+      "hash": "55569ada76591fc8604202d0255f32af859aa8b4"
+    },
+    {
+      "path": "app/lib/events.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/events.js?262f250632f42a4f1416cc90d13dec737ef7ed77",
+      "size": 606,
+      "hash": "262f250632f42a4f1416cc90d13dec737ef7ed77"
+    },
+    {
+      "path": "app/lib/helpers.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/helpers.js?9f10c76bb199accb7b0af5bc296b7c732e49d0c6",
+      "size": 4178,
+      "hash": "9f10c76bb199accb7b0af5bc296b7c732e49d0c6"
+    },
+    {
+      "path": "app/lib/parameters.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/parameters.js?9032cbe10c91fbd65f4269fc3cf95eff36592f31",
+      "size": 1925,
+      "hash": "9032cbe10c91fbd65f4269fc3cf95eff36592f31"
+    },
+    {
+      "path": "app/lib/permissions.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/permissions.js?6855a59731b12c115869d194853912e7707c3ab5",
+      "size": 2989,
+      "hash": "6855a59731b12c115869d194853912e7707c3ab5"
+    },
+    {
+      "path": "app/lib/publications.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/publications.js?7f56236e7d9d9369617ed43561d430da5061d2c9",
+      "size": 740,
+      "hash": "7f56236e7d9d9369617ed43561d430da5061d2c9"
+    },
+    {
+      "path": "app/lib/scoring.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/scoring.js?9646f11c34e3d7c2c8e0a09fce02646b2d10d7b5",
+      "size": 2418,
+      "hash": "9646f11c34e3d7c2c8e0a09fce02646b2d10d7b5"
+    },
+    {
+      "path": "app/lib/users.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/users.js?6058255d8ddc6f218ade23275e1e0edb3ad88432",
+      "size": 5185,
+      "hash": "6058255d8ddc6f218ade23275e1e0edb3ad88432"
+    },
+    {
+      "path": "app/lib/version.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/version.js?d94b1b541076628324f380336ea4a2115d879865",
+      "size": 47,
+      "hash": "d94b1b541076628324f380336ea4a2115d879865"
+    },
+    {
+      "path": "app/lib/vote.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/lib/vote.js?70fa08511fbbd4bdd78db9ebbaf8291c78e209a0",
+      "size": 7949,
+      "hash": "70fa08511fbbd4bdd78db9ebbaf8291c78e209a0"
+    },
+    {
+      "path": "app/client/views/posts/modules/post_actions.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/post_actions.js?a112af0d3aee61f6d6c3d5eef55651a761b804d5",
+      "size": 314,
+      "hash": "a112af0d3aee61f6d6c3d5eef55651a761b804d5"
+    },
+    {
+      "path": "app/client/views/posts/modules/post_admin.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/post_admin.js?7e57497e12d16f8da06d879cf56434092f43c2e5",
+      "size": 308,
+      "hash": "7e57497e12d16f8da06d879cf56434092f43c2e5"
+    },
+    {
+      "path": "app/client/views/posts/modules/post_content.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/post_content.js?1fa613f1b087c5a59bf8055ced93bdac36b1ed84",
+      "size": 1334,
+      "hash": "1fa613f1b087c5a59bf8055ced93bdac36b1ed84"
+    },
+    {
+      "path": "app/client/views/posts/modules/post_domain.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/post_domain.js?ce1aca489a935370d321141bf71f42c97e44efae",
+      "size": 182,
+      "hash": "ce1aca489a935370d321141bf71f42c97e44efae"
+    },
+    {
+      "path": "app/client/views/posts/modules/post_info.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/post_info.js?86e86cf5fd24fb12f3e59cadf8c7f6f0d41974bb",
+      "size": 753,
+      "hash": "86e86cf5fd24fb12f3e59cadf8c7f6f0d41974bb"
+    },
+    {
+      "path": "app/client/views/posts/modules/post_title.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/post_title.js?66529efc94c00480d7d1edfeae477df9a45b1c85",
+      "size": 238,
+      "hash": "66529efc94c00480d7d1edfeae477df9a45b1c85"
+    },
+    {
+      "path": "app/client/views/posts/modules/post_upvote.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/modules/post_upvote.js?d6f508a5e2566f7b831c537f641e32e4902adadf",
+      "size": 684,
+      "hash": "d6f508a5e2566f7b831c537f641e32e4902adadf"
+    },
+    {
+      "path": "app/client/views/admin/toolbox.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/admin/toolbox.js?56b6ef722067add16afa2b3c80b7041e686ec17c",
+      "size": 364,
+      "hash": "56b6ef722067add16afa2b3c80b7041e686ec17c"
+    },
+    {
+      "path": "app/client/views/comments/comment_edit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/comment_edit.js?f0e553037bb3b8a23b48808bdd776037355e3743",
+      "size": 1334,
+      "hash": "f0e553037bb3b8a23b48808bdd776037355e3743"
+    },
+    {
+      "path": "app/client/views/comments/comment_form.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/comment_form.js?dcf87dee5300bfcc506fc8442a12b6542533e6f0",
+      "size": 1588,
+      "hash": "dcf87dee5300bfcc506fc8442a12b6542533e6f0"
+    },
+    {
+      "path": "app/client/views/comments/comment_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/comment_item.js?1d3c3222382c2b67eaa6b565053ca1b045ef49a4",
+      "size": 7552,
+      "hash": "1d3c3222382c2b67eaa6b565053ca1b045ef49a4"
+    },
+    {
+      "path": "app/client/views/comments/comment_list.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/comment_list.js?8bcc1083025e9c808578c831fcc98857b02dc812",
+      "size": 618,
+      "hash": "8bcc1083025e9c808578c831fcc98857b02dc812"
+    },
+    {
+      "path": "app/client/views/comments/comment_reply.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/comments/comment_reply.js?82428b2b66e66fad4d6732aedcfdba75c93e9cf7",
+      "size": 424,
+      "hash": "82428b2b66e66fad4d6732aedcfdba75c93e9cf7"
+    },
+    {
+      "path": "app/client/views/common/css.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/css.js?80205ffd23b3d16478e6ae57bd7e53abb60e0117",
+      "size": 62,
+      "hash": "80205ffd23b3d16478e6ae57bd7e53abb60e0117"
+    },
+    {
+      "path": "app/client/views/common/error.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/error.js?cec2ebc34611c8d572037573194275fdfd2df662",
+      "size": 199,
+      "hash": "cec2ebc34611c8d572037573194275fdfd2df662"
+    },
+    {
+      "path": "app/client/views/common/error_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/error_item.js?a29f523ecd7bc2a213f4c46219f6ed4108cf4688",
+      "size": 250,
+      "hash": "a29f523ecd7bc2a213f4c46219f6ed4108cf4688"
+    },
+    {
+      "path": "app/client/views/common/footer.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/footer.js?ffd2c5aa1e3443b8b8977833ab6a9c20e5a20198",
+      "size": 363,
+      "hash": "ffd2c5aa1e3443b8b8977833ab6a9c20e5a20198"
+    },
+    {
+      "path": "app/client/views/common/layout.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/common/layout.js?187f19e8f9d7d7a9d9f0fa9fd3dd6809b977a312",
+      "size": 933,
+      "hash": "187f19e8f9d7d7a9d9f0fa9fd3dd6809b977a312"
+    },
+    {
+      "path": "app/client/views/errors/loading.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/errors/loading.js?e1e7b1ac8a33e73d4b0ba67a7c69ea6c5e040faf",
+      "size": 123,
+      "hash": "e1e7b1ac8a33e73d4b0ba67a7c69ea6c5e040faf"
+    },
+    {
+      "path": "app/client/views/errors/no_account.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/errors/no_account.js?728494f862d7368d7981ef14e67e701648130521",
+      "size": 304,
+      "hash": "728494f862d7368d7981ef14e67e701648130521"
+    },
+    {
+      "path": "app/client/views/errors/no_invite.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/errors/no_invite.js?dcb68cd6bfaf6f023271107752fcf84f648dedac",
+      "size": 145,
+      "hash": "dcb68cd6bfaf6f023271107752fcf84f648dedac"
+    },
+    {
+      "path": "app/client/views/nav/admin_menu.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/admin_menu.js?03606e75a0a6712182a00683dbb06ef1ac4f8644",
+      "size": 182,
+      "hash": "03606e75a0a6712182a00683dbb06ef1ac4f8644"
+    },
+    {
+      "path": "app/client/views/nav/mobile_nav.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/mobile_nav.js?0db53cb44b641333c987e6a65705bf2301b228f6",
+      "size": 1057,
+      "hash": "0db53cb44b641333c987e6a65705bf2301b228f6"
+    },
+    {
+      "path": "app/client/views/nav/nav.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/nav.js?9b4d0e3da077cf8cd5c91978edad4c6fa3ec2b9e",
+      "size": 1963,
+      "hash": "9b4d0e3da077cf8cd5c91978edad4c6fa3ec2b9e"
+    },
+    {
+      "path": "app/client/views/nav/user_menu.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/user_menu.js?0406c8e15df3a7628b180833d90972b8168278e2",
+      "size": 270,
+      "hash": "0406c8e15df3a7628b180833d90972b8168278e2"
+    },
+    {
+      "path": "app/client/views/nav/views_menu.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/nav/views_menu.js?5dfe64d563219683595fb17abb985accc94cdf3f",
+      "size": 182,
+      "hash": "5dfe64d563219683595fb17abb985accc94cdf3f"
+    },
+    {
+      "path": "app/client/views/posts/post_edit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/post_edit.js?ec0a5a3c0321ba9f5ec57b40fd51897b75a2c88b",
+      "size": 6133,
+      "hash": "ec0a5a3c0321ba9f5ec57b40fd51897b75a2c88b"
+    },
+    {
+      "path": "app/client/views/posts/post_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/post_item.js?b3da9f39643d2c55d37149a9a5adf173f7f1e35b",
+      "size": 977,
+      "hash": "b3da9f39643d2c55d37149a9a5adf173f7f1e35b"
+    },
+    {
+      "path": "app/client/views/posts/post_page.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/post_page.js?e848f9d14f0d21126cbd9a63ba757d36ae63fd65",
+      "size": 512,
+      "hash": "e848f9d14f0d21126cbd9a63ba757d36ae63fd65"
+    },
+    {
+      "path": "app/client/views/posts/post_submit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/post_submit.js?9e5525aecb892a8e267ea435667bf3409f79dda8",
+      "size": 4836,
+      "hash": "9e5525aecb892a8e267ea435667bf3409f79dda8"
+    },
+    {
+      "path": "app/client/views/posts/posts_digest.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/posts_digest.js?b2bc49c1db1ff48e4fbba0fed663d78cc88c10c8",
+      "size": 2287,
+      "hash": "b2bc49c1db1ff48e4fbba0fed663d78cc88c10c8"
+    },
+    {
+      "path": "app/client/views/posts/posts_list.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/posts_list.js?39939f70d88597ee011023c238870895e9556a43",
+      "size": 657,
+      "hash": "39939f70d88597ee011023c238870895e9556a43"
+    },
+    {
+      "path": "app/client/views/posts/posts_list_incoming.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/posts_list_incoming.js?d95969f2f70dd4f68066434b18609b00617ab74a",
+      "size": 172,
+      "hash": "d95969f2f70dd4f68066434b18609b00617ab74a"
+    },
+    {
+      "path": "app/client/views/posts/posts_load_more.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/posts/posts_load_more.js?24d1248e5da3e343c31219e9dd1c38ebc19b410c",
+      "size": 570,
+      "hash": "24d1248e5da3e343c31219e9dd1c38ebc19b410c"
+    },
+    {
+      "path": "app/client/views/settings/quickFormSettings.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/settings/quickFormSettings.js?63d8ccab33439bdddf61cce039824c59895112df",
+      "size": 3771,
+      "hash": "63d8ccab33439bdddf61cce039824c59895112df"
+    },
+    {
+      "path": "app/client/views/users/invites.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/invites.js?92d111cc9e6fd81113680f9d945389d0c9d623f3",
+      "size": 1125,
+      "hash": "92d111cc9e6fd81113680f9d945389d0c9d623f3"
+    },
+    {
+      "path": "app/client/views/users/user_edit.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/user_edit.js?7dbbd4bbfce3af2675d9870c3b7f5cb6fdaf4ea7",
+      "size": 2990,
+      "hash": "7dbbd4bbfce3af2675d9870c3b7f5cb6fdaf4ea7"
+    },
+    {
+      "path": "app/client/views/users/user_email.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/user_email.js?322d2cd7ae9cd0871201fe7585b747ed20e31c86",
+      "size": 1176,
+      "hash": "322d2cd7ae9cd0871201fe7585b747ed20e31c86"
+    },
+    {
+      "path": "app/client/views/users/user_item.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/user_item.js?87c90ab0a9db29a084d84723bd5307e9cba9df3a",
+      "size": 1590,
+      "hash": "87c90ab0a9db29a084d84723bd5307e9cba9df3a"
+    },
+    {
+      "path": "app/client/views/users/user_profile.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/user_profile.js?3ebdd7247db1452b82ff0d894931ff26dcd6d013",
+      "size": 3813,
+      "hash": "3ebdd7247db1452b82ff0d894931ff26dcd6d013"
+    },
+    {
+      "path": "app/client/views/users/users.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/views/users/users.js?ce853aa98e5f3c91982cac9ea33000f266346de1",
+      "size": 739,
+      "hash": "ce853aa98e5f3c91982cac9ea33000f266346de1"
+    },
+    {
+      "path": "app/client/helpers/config.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/helpers/config.js?595d534a18fc74b9d3d167a9710648b0efa5ca2b",
+      "size": 849,
+      "hash": "595d534a18fc74b9d3d167a9710648b0efa5ca2b"
+    },
+    {
+      "path": "app/client/helpers/handlebars.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/helpers/handlebars.js?ac09f6a29eb44f7c67fbb99e109b1cdb1f5dd244",
+      "size": 2401,
+      "hash": "ac09f6a29eb44f7c67fbb99e109b1cdb1f5dd244"
+    },
+    {
+      "path": "app/client/js/epiceditor.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/js/epiceditor.js?ddb1d7c805ff0447767f6301022952ab07183c89",
+      "size": 84266,
+      "hash": "ddb1d7c805ff0447767f6301022952ab07183c89"
+    },
+    {
+      "path": "app/client/js/jquery.xdomainajax.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/js/jquery.xdomainajax.js?cb4a9fe37eee91d2d83c5daabc3f592a936a54e2",
+      "size": 2333,
+      "hash": "cb4a9fe37eee91d2d83c5daabc3f592a936a54e2"
+    },
+    {
+      "path": "app/collections/comments.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/collections/comments.js?c0fd3c3f968850c891186831b7df0b122fff50b4",
+      "size": 5289,
+      "hash": "c0fd3c3f968850c891186831b7df0b122fff50b4"
+    },
+    {
+      "path": "app/collections/errors.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/collections/errors.js?8b840951ef5af627365ffbc90b7d50fee2fb2634",
+      "size": 118,
+      "hash": "8b840951ef5af627365ffbc90b7d50fee2fb2634"
+    },
+    {
+      "path": "app/collections/invites.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/collections/invites.js?a3cafb71d01669c52140af22df0269b81fcbeac8",
+      "size": 568,
+      "hash": "a3cafb71d01669c52140af22df0269b81fcbeac8"
+    },
+    {
+      "path": "app/collections/posts.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/collections/posts.js?780d8e234bf8b2c356d3ad20e4dcb57454c8ecfc",
+      "size": 9819,
+      "hash": "780d8e234bf8b2c356d3ad20e4dcb57454c8ecfc"
+    },
+    {
+      "path": "app/collections/settings.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/collections/settings.js?93f305f50cc9fec75437884d2deaea832a633cd8",
+      "size": 6169,
+      "hash": "93f305f50cc9fec75437884d2deaea832a633cd8"
+    },
+    {
+      "path": "app/collections/users.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/collections/users.js?ad4702fa29c6c78ea1c484e6f6a5f1a6c4652ff2",
+      "size": 1298,
+      "hash": "ad4702fa29c6c78ea1c484e6f6a5f1a6c4652ff2"
+    },
+    {
+      "path": "app/client/main.js",
+      "where": "client",
+      "type": "js",
+      "cacheable": true,
+      "url": "/client/main.js?2e83beda38361253ff0f3c18c44b2129add23991",
+      "size": 921,
+      "hash": "2e83beda38361253ff0f3c18c44b2129add23991"
+    },
+    {
+      "path": "d4ed59ea57187f781c7a18daf7eb2557f6d906a3.css",
+      "where": "client",
+      "type": "css",
+      "cacheable": true,
+      "url": "/d4ed59ea57187f781c7a18daf7eb2557f6d906a3.css",
+      "sourceMap": "d4ed59ea57187f781c7a18daf7eb2557f6d906a3.css.map",
+      "sourceMapUrl": "/d4ed59ea57187f781c7a18daf7eb2557f6d906a3.map",
+      "size": 136600,
+      "hash": "d4ed59ea57187f781c7a18daf7eb2557f6d906a3"
+    },
+    {
+      "path": "packages/bengott_avatar/default.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/packages/bengott_avatar/default.png",
+      "size": 1577,
+      "hash": "76ec76887e4c748e6358a2aaf9b57006567f8999"
+    },
+    {
+      "path": "app/img/bg-black.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-black.png",
+      "size": 939,
+      "hash": "953b7241f793d15f5bee085af2ad357757e1cf62"
+    },
+    {
+      "path": "app/img/bg-black@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-black@2x.png",
+      "size": 949,
+      "hash": "c4afab1e22f0e436f0109e68b2a1bd1b3b957696"
+    },
+    {
+      "path": "app/img/bg-header.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-header.png",
+      "size": 942,
+      "hash": "b5459e6b1ef9dbd0d5699dfef6069802b5d02180"
+    },
+    {
+      "path": "app/img/bg-header@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg-header@2x.png",
+      "size": 953,
+      "hash": "76fb76ca86f7955f092f3127876f373c7c38b9d3"
+    },
+    {
+      "path": "app/img/bg.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg.png",
+      "size": 945,
+      "hash": "d03b99566f920d7da4d91a4cd7ff10ae773c0d0b"
+    },
+    {
+      "path": "app/img/bg@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/bg@2x.png",
+      "size": 952,
+      "hash": "fd083cdb1e43044e81ebbbaa07622a2008b98f1c"
+    },
+    {
+      "path": "app/img/default-avatar.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/default-avatar.png",
+      "size": 4377,
+      "hash": "ea0eb98f33480ab75ff9396c227d0e06e4b7b4ef"
+    },
+    {
+      "path": "app/img/favicon.ico",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/favicon.ico",
+      "size": 8348,
+      "hash": "aaae79b23c4bd0833a2cd209275f428d44653310"
+    },
+    {
+      "path": "app/img/loading-balls.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loading-balls.svg",
+      "size": 1377,
+      "hash": "4b68d0ee62f67916570ba998319f6b66e5ce83de"
+    },
+    {
+      "path": "app/img/loading.gif",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/loading.gif",
+      "size": 673,
+      "hash": "a3243ca6a628b77b3523a18aff6bafae85b45adc"
+    },
+    {
+      "path": "app/img/logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo.png",
+      "size": 1183,
+      "hash": "9156774811c13a5a774212114ea12a0a9dbe0a6a"
+    },
+    {
+      "path": "app/img/logo@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/logo@2x.png",
+      "size": 1317,
+      "hash": "36ba42c2bc1db343fadb6588085fb3ab3569f62c"
+    },
+    {
+      "path": "app/img/telescope-logo.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/telescope-logo.png",
+      "size": 2198,
+      "hash": "2603324a6ce9238ebee44d18de2474ee55908dbd"
+    },
+    {
+      "path": "app/img/telescope-logo2.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/telescope-logo2.png",
+      "size": 9619,
+      "hash": "e0ba812a45570cf5049647d73c676cc36cb01572"
+    },
+    {
+      "path": "app/img/telescope-logo@2x.png",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/telescope-logo@2x.png",
+      "size": 3624,
+      "hash": "9076935cb72f78de0b9301d41add05b1ffc44c1f"
+    },
+    {
+      "path": "app/img/thegrid.svg",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/img/thegrid.svg",
+      "size": 1827,
+      "hash": "542c3ae8cb8b9c5802fb7738b4b992306ecd1416"
+    },
+    {
+      "path": "app/editor/themes/base/epiceditor.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/editor/themes/base/epiceditor.css",
+      "size": 8891,
+      "hash": "018d8f2b55f995e8249aa42c1e4c1b1fb6c0c551"
+    },
+    {
+      "path": "app/editor/themes/editor/epic-dark.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/editor/themes/editor/epic-dark.css",
+      "size": 193,
+      "hash": "8f9e5fceff677327a427278466bc0d5a5352cb8f"
+    },
+    {
+      "path": "app/editor/themes/editor/epic-light3.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/editor/themes/editor/epic-light3.css",
+      "size": 170,
+      "hash": "65660d8b7b8b2e0edeb1ca9614a6406d4d0c8924"
+    },
+    {
+      "path": "app/editor/themes/preview/bartik.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/editor/themes/preview/bartik.css",
+      "size": 2186,
+      "hash": "bcfd68e77380dbd0cc1b11d2a6dcb74e118aeb10"
+    },
+    {
+      "path": "app/editor/themes/preview/github.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/editor/themes/preview/github.css",
+      "size": 6131,
+      "hash": "d16b831477daf67a468aee93195c5ba8d9410613"
+    },
+    {
+      "path": "app/editor/themes/preview/preview-dark.css",
+      "where": "client",
+      "type": "asset",
+      "cacheable": false,
+      "url": "/editor/themes/preview/preview-dark.css",
+      "size": 2454,
+      "hash": "99fc9954db927e6e2628a4e4ee7555a1b9a8b99d"
+    },
+    {
+      "path": "head.html",
+      "where": "internal",
+      "type": "head",
+      "hash": "45bf9f4a346682ee52b827b74ac80c3d978c948f"
+    }
+  ]
+}

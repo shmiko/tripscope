@@ -1,0 +1,39 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-i18n/package.js": "d9022772813080be852ac3c558b2bd9b9ff41691",
+        "/Users/pauljones/tripscope/packages/telescope-i18n/i18n.js": "c86bcb0653a23cf869c2db74ec45cba7ffe9dc1e"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-i18n/package.js": "d9022772813080be852ac3c558b2bd9b9ff41691",
+        "/Users/pauljones/tripscope/packages/telescope-i18n/i18n.js": "c86bcb0653a23cf869c2db74ec45cba7ffe9dc1e"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-i18n/package.js": "d9022772813080be852ac3c558b2bd9b9ff41691",
+        "/Users/pauljones/tripscope/packages/telescope-i18n/i18n.js": "c86bcb0653a23cf869c2db74ec45cba7ffe9dc1e"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/pauljones/tripscope/packages/telescope-i18n/package.js": "d9022772813080be852ac3c558b2bd9b9ff41691"
+    },
+    "directories": []
+  },
+  "source": "/Users/pauljones/tripscope/packages/telescope-i18n",
+  "buildTimeDirectDependencies": {
+    "meteor": "1.1.3",
+    "ui": "1.0.4"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

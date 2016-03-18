@@ -1,0 +1,23 @@
+{
+  "name": "telescope-rss",
+  "summary": "Telescope RSS package",
+  "version": "0.0.0+29c4ef56662bee4ee6ecb3a55a745b026e1746cb",
+  "earliestCompatibleVersion": "0.0.0",
+  "isTest": false,
+  "plugins": [],
+  "unibuilds": [
+    {
+      "arch": "os",
+      "path": "os.json"
+    },
+    {
+      "arch": "web.browser",
+      "path": "web.browser.json"
+    },
+    {
+      "arch": "web.cordova",
+      "path": "web.cordova.json"
+    }
+  ],
+  "format": "unipackage-pre2"
+}

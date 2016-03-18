@@ -1,0 +1,66 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/package.js": "e647d54eaa8347942a3303e64ceaa4fc26afcee9",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/.npm/package/npm-shrinkwrap.json": "b55838d5ab8ff964e75ee4b461d54b919ddfeac1",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/newsletter.js": "c412a7f8211ff6a5544951df2a5573743c69e2a2",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/server/campaign.js": "7725d5fdc0e5824c9629ff3a84220544377f9349",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/server/cron.js": "d95810751f980934075cc097d77a9311ac07f4b6",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/server/mailchimp.js": "9997f0baaa36bebcf43e0708fb7de5c8152b8309",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/server/routes.js": "36a69223229a7c8ee9c9e4d6d67eb54c90fa8135",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/server/templates/emailDigest.handlebars": "e1bea5778c43851ac8c952a479834ee68d582351",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/server/templates/emailDigestConfirmation.handlebars": "e5e4b20e7969c26fcc92dfcae725a2da174a16b4",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/server/templates/emailPostItem.handlebars": "d53f51c1cf81cdf7be2dad6dac28f4335d8ca5e1"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/package.js": "e647d54eaa8347942a3303e64ceaa4fc26afcee9",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/.npm/package/npm-shrinkwrap.json": "b55838d5ab8ff964e75ee4b461d54b919ddfeac1",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/newsletter.js": "c412a7f8211ff6a5544951df2a5573743c69e2a2",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/client/templates/newsletter_banner.html": "29048e1d42a721c257869403acbef2a4c9d0ef12",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/client/templates/newsletter_banner.js": "e41a5983250536c3c267e062f8a4add39a01d291",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/client/templates/newsletter_banner.css": "5343784b29be2b7452092d265dae37485a709460"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/package.js": "e647d54eaa8347942a3303e64ceaa4fc26afcee9",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/.npm/package/npm-shrinkwrap.json": "b55838d5ab8ff964e75ee4b461d54b919ddfeac1",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/newsletter.js": "c412a7f8211ff6a5544951df2a5573743c69e2a2",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/client/templates/newsletter_banner.html": "29048e1d42a721c257869403acbef2a4c9d0ef12",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/client/templates/newsletter_banner.js": "e41a5983250536c3c267e062f8a4add39a01d291",
+        "/Users/pauljones/tripscope/packages/telescope-newsletter/lib/client/templates/newsletter_banner.css": "5343784b29be2b7452092d265dae37485a709460"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/pauljones/tripscope/packages/telescope-newsletter/package.js": "e647d54eaa8347942a3303e64ceaa4fc26afcee9"
+    },
+    "directories": []
+  },
+  "source": "/Users/pauljones/tripscope/packages/telescope-newsletter",
+  "buildTimeDirectDependencies": {
+    "telescope-lib": "0.2.9+a4deeda0719a0c6dd02042b6e69784b41ce7c1fe",
+    "cmather:handlebars-server": "2.0.0",
+    "meteorhacks:npm": "1.2.1",
+    "templating": "1.0.9",
+    "mrt:mailchimp": "0.4.0",
+    "mrt:cookies": "0.3.0",
+    "underscore": "1.0.1",
+    "iron:router": "1.0.1",
+    "jquery": "1.0.1",
+    "meteor": "1.1.3",
+    "percolatestudio:synced-cron": "1.0.0",
+    "aldeed:simple-schema": "1.1.0",
+    "telescope-base": "0.0.0+159bfa337eb2407989eb6bbdb6f1282db9dd2e89"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

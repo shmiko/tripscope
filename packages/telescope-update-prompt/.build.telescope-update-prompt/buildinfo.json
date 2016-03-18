@@ -1,0 +1,51 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/package.js": "85d074ce3634ed2a8df81c91bd49cf351d428928",
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/lib/server/phone_home.js": "e7d4d6d283f21daf0ef86e823007911feb14649c"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/package.js": "85d074ce3634ed2a8df81c91bd49cf351d428928",
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/lib/client/update.js": "fad8b7e6b5c18f226aba478edd3e570e289df2a3",
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/lib/client/templates/update_banner.html": "ba77023ae99ec0a77eacbbc142260aa210151b97",
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/lib/client/templates/update_banner.js": "6249cc7510762541be8402f70ac32964d1cdcc86",
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/lib/client/templates/update_banner.css": "0f2107db7206ae8421a13faf72d74d1267c40acc"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/package.js": "85d074ce3634ed2a8df81c91bd49cf351d428928",
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/lib/client/update.js": "fad8b7e6b5c18f226aba478edd3e570e289df2a3",
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/lib/client/templates/update_banner.html": "ba77023ae99ec0a77eacbbc142260aa210151b97",
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/lib/client/templates/update_banner.js": "6249cc7510762541be8402f70ac32964d1cdcc86",
+        "/Users/pauljones/tripscope/packages/telescope-update-prompt/lib/client/templates/update_banner.css": "0f2107db7206ae8421a13faf72d74d1267c40acc"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/pauljones/tripscope/packages/telescope-update-prompt/package.js": "85d074ce3634ed2a8df81c91bd49cf351d428928"
+    },
+    "directories": []
+  },
+  "source": "/Users/pauljones/tripscope/packages/telescope-update-prompt",
+  "buildTimeDirectDependencies": {
+    "telescope-lib": "0.2.9+a4deeda0719a0c6dd02042b6e69784b41ce7c1fe",
+    "templating": "1.0.9",
+    "underscore": "1.0.1",
+    "iron:router": "1.0.1",
+    "http": "1.0.8",
+    "jquery": "1.0.1",
+    "meteor": "1.1.3",
+    "telescope-base": "0.0.0+159bfa337eb2407989eb6bbdb6f1282db9dd2e89"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

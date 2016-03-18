@@ -1,0 +1,23 @@
+{
+  "name": "telescope-lib",
+  "summary": "Telescope library package",
+  "version": "0.2.9+a4deeda0719a0c6dd02042b6e69784b41ce7c1fe",
+  "earliestCompatibleVersion": "0.0.0",
+  "isTest": false,
+  "plugins": [],
+  "unibuilds": [
+    {
+      "arch": "os",
+      "path": "os.json"
+    },
+    {
+      "arch": "web.browser",
+      "path": "web.browser.json"
+    },
+    {
+      "arch": "web.cordova",
+      "path": "web.cordova.json"
+    }
+  ],
+  "format": "unipackage-pre2"
+}

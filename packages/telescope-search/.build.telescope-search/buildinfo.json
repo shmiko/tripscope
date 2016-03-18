@@ -1,0 +1,59 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-search/package.js": "1428c9415f21479ba79515e54bbf1998a17f42d5",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/search.js": "3a1716ef6d1ff4c641e30da06144d1f25ca2e21c",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/server/log_search.js": "c53a06db2d2c74e7a00214bc0c9edf9cfbb485f2",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/server/publications.js": "637a6ca763be7ecbdc7ac9f7e3df553f9684e7f8"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-search/package.js": "1428c9415f21479ba79515e54bbf1998a17f42d5",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/search.js": "3a1716ef6d1ff4c641e30da06144d1f25ca2e21c",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/routes.js": "80d5b1f859e92ff4743685a80c4bb8852986d5cb",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/views/search.html": "3e1633c9b67391d436b9127d8af8fc4c06ba8025",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/views/search.js": "8de50535ca3d7f29e953e165b2f6e39de7cb3429",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/css/search.css": "840d02f7940fbbbc8555728bf66f0e6d06b27b61",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/views/search_logs.html": "1a3c84665677f5fed7cebb4af6b8567409621734",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/views/search_logs.js": "96fe7c064e73a0b3e25a505282910c8b4fd63e83"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/telescope-search/package.js": "1428c9415f21479ba79515e54bbf1998a17f42d5",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/search.js": "3a1716ef6d1ff4c641e30da06144d1f25ca2e21c",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/routes.js": "80d5b1f859e92ff4743685a80c4bb8852986d5cb",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/views/search.html": "3e1633c9b67391d436b9127d8af8fc4c06ba8025",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/views/search.js": "8de50535ca3d7f29e953e165b2f6e39de7cb3429",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/css/search.css": "840d02f7940fbbbc8555728bf66f0e6d06b27b61",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/views/search_logs.html": "1a3c84665677f5fed7cebb4af6b8567409621734",
+        "/Users/pauljones/tripscope/packages/telescope-search/lib/client/views/search_logs.js": "96fe7c064e73a0b3e25a505282910c8b4fd63e83"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/pauljones/tripscope/packages/telescope-search/package.js": "1428c9415f21479ba79515e54bbf1998a17f42d5"
+    },
+    "directories": []
+  },
+  "source": "/Users/pauljones/tripscope/packages/telescope-search",
+  "buildTimeDirectDependencies": {
+    "telescope-lib": "0.2.9+a4deeda0719a0c6dd02042b6e69784b41ce7c1fe",
+    "templating": "1.0.9",
+    "underscore": "1.0.1",
+    "iron:router": "1.0.1",
+    "jquery": "1.0.1",
+    "meteor": "1.1.3",
+    "aldeed:simple-schema": "1.1.0",
+    "telescope-base": "0.0.0+159bfa337eb2407989eb6bbdb6f1282db9dd2e89"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}

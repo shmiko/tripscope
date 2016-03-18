@@ -1,0 +1,24 @@
+{
+  "isopack-1": {
+    "name": "telescope-update-prompt",
+    "summary": "Telescope update prompt package.",
+    "version": "0.1.0+fb1573c446164b8446cce8d03cb036c907e6b6a1",
+    "earliestCompatibleVersion": "0.0.0",
+    "isTest": false,
+    "builds": [
+      {
+        "arch": "os",
+        "path": "os.json"
+      },
+      {
+        "arch": "web.browser",
+        "path": "web.browser.json"
+      },
+      {
+        "arch": "web.cordova",
+        "path": "web.cordova.json"
+      }
+    ],
+    "plugins": []
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "isopack-1": {
+    "name": "telescope-notifications",
+    "summary": "Telescope notifications package",
+    "version": "0.1.0+85e303b73758f6c8e05930011a11916734d7f7b2",
+    "earliestCompatibleVersion": "0.0.0",
+    "isTest": false,
+    "builds": [
+      {
+        "arch": "os",
+        "path": "os.json"
+      },
+      {
+        "arch": "web.browser",
+        "path": "web.browser.json"
+      },
+      {
+        "arch": "web.cordova",
+        "path": "web.cordova.json"
+      }
+    ],
+    "plugins": []
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "format": "unipackage-unibuild-pre1",
+  "packageVariables": [
+    {
+      "name": "buildEmailTemplate",
+      "export": true
+    },
+    {
+      "name": "sendEmail",
+      "export": true
+    },
+    {
+      "name": "buildAndSendEmail",
+      "export": true
+    },
+    {
+      "name": "getEmailTemplate",
+      "export": true
+    }
+  ],
+  "uses": [
+    {
+      "package": "meteor"
+    },
+    {
+      "package": "iron:router"
+    },
+    {
+      "package": "telescope-base"
+    },
+    {
+      "package": "telescope-lib"
+    }
+  ],
+  "resources": [
+    {
+      "type": "prelink",
+      "file": "web.cordova/packages/telescope-email.js",
+      "length": 0,
+      "offset": 0,
+      "servePath": "/packages/telescope-email.js",
+      "sourceMap": "web.cordova/packages/telescope-email.js.map"
+    }
+  ]
+}

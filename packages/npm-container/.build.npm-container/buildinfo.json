@@ -1,0 +1,37 @@
+{
+  "builtBy": "meteor/14",
+  "buildDependencies": {
+    "os.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/npm-container/package.js": "c92e7548ef6c01cba912640811d4e3f7c2a78aa0",
+        "/Users/pauljones/tripscope/packages/npm-container/index.js": "a616a3fbec2b4579c102d3ca2ea5957cfea1ff59",
+        "/Users/pauljones/tripscope/packages.json": "41858e537a70ecc79bff59426fecfd3906adb313"
+      },
+      "directories": []
+    },
+    "web.browser.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/npm-container/package.js": "c92e7548ef6c01cba912640811d4e3f7c2a78aa0"
+      },
+      "directories": []
+    },
+    "web.cordova.json": {
+      "files": {
+        "/Users/pauljones/tripscope/packages/npm-container/package.js": "c92e7548ef6c01cba912640811d4e3f7c2a78aa0"
+      },
+      "directories": []
+    }
+  },
+  "pluginDependencies": {
+    "files": {
+      "/Users/pauljones/tripscope/packages/npm-container/package.js": "c92e7548ef6c01cba912640811d4e3f7c2a78aa0"
+    },
+    "directories": []
+  },
+  "source": "/Users/pauljones/tripscope/packages/npm-container",
+  "buildTimeDirectDependencies": {
+    "meteor": "1.1.3"
+  },
+  "buildTimePluginDependencies": {},
+  "cordovaDependencies": null
+}
